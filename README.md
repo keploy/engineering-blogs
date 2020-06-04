@@ -51,6 +51,7 @@
 * Benchling https://benchling.engineering/
 * Bigcommerce http://www.bigeng.io/
 * Blender https://code.blender.org/
+* Bloomberg https://www.techatbloomberg.com/ 
 * Booking.com https://blog.booking.com/
 * Brandwatch http://engineering.brandwatch.com/
 

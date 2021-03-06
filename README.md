@@ -51,6 +51,11 @@
 * BBC https://medium.com/bbc-design-engineering/
 * Benchling https://benchling.engineering/
 * Bigcommerce http://www.bigeng.io/
+* Binary Studio https://binary-studio.com/blog/
+* Bitly http://word.bitly.com/
+* BitTorrent http://engineering.bittorrent.com/
+* BlaBlaCar http://blablatech.com/blog/
+* BlackRock https://medium.com/blackrock-engineering
 * Blender https://code.blender.org/
 * Bloomberg https://www.techatbloomberg.com/ 
 * Booking.com https://blog.booking.com/

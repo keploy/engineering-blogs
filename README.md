@@ -329,6 +329,10 @@
 * Amit Merchant https://www.amitmerchant.com/
 * Anders Aarvik http://aarvik.dk/
 * Andrew Bancroft http://www.andrewcbancroft.com/
+* Andrew Brampton https://blog.bramp.net/
+* Andrew Klotz https://klotzandrew.com/
+* Andrew Ray https://blog.andrewray.me/
+* Andrey Akinshin http://aakinshin.net/blog/
 * Antirez http://antirez.com/latest/0
 * Ariejan de Vroom https://ariejan.net/
 * Ariya Hidayat https://ariya.io/

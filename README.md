@@ -172,7 +172,7 @@
 * LinkedIn https://engineering.linkedin.com/blog
 * LiveRamp https://liveramp.com/engineering/
 * Localytics http://eng.localytics.com/
-* LoginRadius https://www.loginradius.com/engineering/
+* LoginRadius https://www.loginradius.com/blog/async/
 * Lyft https://eng.lyft.com/
 
 #### M companies

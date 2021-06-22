@@ -274,6 +274,8 @@
 * theScore http://techblog.thescore.com/
 * Thoughtbot https://robots.thoughtbot.com/
 * Thumbtack https://www.thumbtack.com/engineering/
+* Ticketmaster https://tech.ticketmaster.com/
+* Tier https://tier.engineering
 * Timescale https://blog.timescale.com/
 * Tinder https://tech.gotinder.com/
 * Toptal https://www.toptal.com/blog/

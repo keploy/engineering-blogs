@@ -231,6 +231,8 @@
 * Robert Elder Software http://blog.robertelder.org/
 * Roblox https://medium.com/roblox-tech-blog/
 * RoseHosting https://www.rosehosting.com/blog/
+* Runtastic https://www.runtastic.com/blog/en/category/tech/
+* Razorpay https://engineering.razorpay.com/
 
 #### S companies
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
@@ -288,6 +290,7 @@
 #### U companies
 * Universe https://engineering.universe.com
 * UpGrad https://engineering.upgrad.com
+* Unacademy https://tech.unacademy.com
 
 #### V companies
 * Vena Solutions https://engineering.vena.io/

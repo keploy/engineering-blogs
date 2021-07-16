@@ -235,6 +235,7 @@
 * Razorpay https://engineering.razorpay.com/
 
 #### S companies
+* Salesforce https://engineering.salesforce.com/
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
 * Segment https://segment.com/blog/categories/engineering/
 * Sensible http://blog.sensible.io/

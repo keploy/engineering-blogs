@@ -446,6 +446,7 @@
 * Jerry Gamblin https://jerrygamblin.com/
 * Jesal Gadhia https://jes.al/
 * Jessie Frazelle https://blog.jessfraz.com/
+* Jesus Castello https://www.rubyguides.com/
 * Joe Armstrong https://joearms.github.io/
 * Joe Nelson https://begriffs.com/
 * Joel Spolsky https://www.joelonsoftware.com/

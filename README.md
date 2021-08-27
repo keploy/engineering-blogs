@@ -112,6 +112,9 @@
 * Findmypast http://tech.findmypast.com/
 * Finn.no http://tech.finn.no/
 * Flickr http://code.flickr.net/
+* Flipboard http://engineering.flipboard.com/
+* Flipkart http://tech.flipkart.com/
+* Foursquare https://engineering.foursquare.com/
 * Freeletics https://freeletics.engineering/
 * Fynd http://gofynd.io/blog
 

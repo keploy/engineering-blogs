@@ -156,6 +156,13 @@
 * Indeed http://engineering.indeedblog.com/blog/
 * Instacart https://tech.instacart.com/
 * Instagram https://engineering.instagram.com/
+* Intel https://software.intel.com/en-us/blogs/
+* Intent HQ http://engineering.intenthq.com/
+* Intent Media http://intentmedia.com/blog/
+* Intercom https://engineering.intercom.io/
+* Itsmycode https://itsmycode.com/
+* Intuit https://quickbooks-engineering.intuit.com/
+* InVision http://engineering.invisionapp.com/
 
 #### J companies
 * Jane Street https://blogs.janestreet.com/category/ocaml/

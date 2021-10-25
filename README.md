@@ -50,6 +50,7 @@
 * Bazaarvoice https://blog.developer.bazaarvoice.com/
 * BBC https://medium.com/bbc-design-engineering/
 * Benchling https://benchling.engineering/
+* BenefitFocus https://resources.benefitfocus.com/blog
 * Bigcommerce http://www.bigeng.io/
 * Binary Studio https://binary-studio.com/blog/
 * Bitly http://word.bitly.com/
@@ -95,6 +96,7 @@
 #### E companies
 * Ebay https://www.ebayinc.com/stories/blogs/tech/
 * eFounders https://medium.com/unexpected-token
+* Elastic https://www.elastic.co/blog/
 * Engine Yard https://blog.engineyard.com/
 * Entelo https://sourcecode.entelo.com/
 * Envato https://webuild.envato.com/
@@ -151,6 +153,7 @@
 
 #### I companies
 * IBM developerWorks https://developer.ibm.com/dwblog/
+* IFTTT https://ifttt.com/blog
 * IMVU https://engineering.imvu.com/
 * Imgur https://blog.imgur.com/category/eng/
 * Indeed http://engineering.indeedblog.com/blog/
@@ -182,7 +185,7 @@
 * LinkedIn https://engineering.linkedin.com/blog
 * LiveRamp https://liveramp.com/engineering/
 * Localytics http://eng.localytics.com/
-* LoginRadius https://www.loginradius.com/blog/async/
+* Logit.io https://logit.io/blog
 * Lyft https://eng.lyft.com/
 
 #### M companies
@@ -247,6 +250,8 @@
 #### S companies
 * Salesforce https://engineering.salesforce.com/
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
+* Scrapinghub https://blog.scrapinghub.com/
+* Scrunch https://tech.scrunch.com/blog/
 * Segment https://segment.com/blog/categories/engineering/
 * Sensible http://blog.sensible.io/
 * Serverless https://serverless.com/blog/
@@ -314,9 +319,10 @@
 * VTS https://buildingvts.com/
 
 #### W companies
-* Wayfair http://engineering.wayfair.com/
+* Wattpad http://engineering.wattpad.com/
 * Wealthfront http://eng.wealthfront.com/
 * Wemake.services https://medium.com/wemake-services
+* WePay https://wecode.wepay.com/
 * Wingify http://engineering.wingify.com/
 * WyeWorks https://wyeworks.com/blog/
 
@@ -481,7 +487,6 @@
 * K. Harrison https://useyourloaf.com/
 * Kai Hendry https://hendry.iki.fi/
 * Kevin Burke https://kev.inburke.com/
-* Kirill Shevchenko https://medium.com/@kirill_shevch
 * Kyle Kingsbury https://aphyr.com/
 
 #### L individuals

@@ -195,6 +195,11 @@
 * Medium https://medium.com/medium-eng
 * Mesosphere https://mesosphere.com/blog/
 * Microsoft Python Engineering https://blogs.msdn.microsoft.com/pythonengineering/
+* Mixmax https://engineering.mixmax.com/
+* Mixpanel https://code.mixpanel.com/
+* MojoAuth https://mojoauth.com/blog/
+* MongoDB https://engineering.mongodb.com/
+* Monsanto http://engineering.monsanto.com/
 * Moove-it https://blog.moove-it.com/
 * Mozilla Automation Team https://planet.mozilla.org/ateam/
 * Mozilla Hacks https://hacks.mozilla.org/

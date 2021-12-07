@@ -101,6 +101,7 @@
 * Entelo https://sourcecode.entelo.com/
 * Envato https://webuild.envato.com/
 * Envoy https://envoy.engineering/
+* EQ Works https://blog.eqworks.io/
 * Erlang Solutions https://www.erlang-solutions.com/blog.html
 * Eventbrite https://www.eventbrite.com/engineering/
 * Evil Martians https://evilmartians.com/chronicles/

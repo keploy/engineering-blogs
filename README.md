@@ -84,6 +84,8 @@
 
 #### D companies
 * Databricks https://databricks.com/blog
+* Datadog https://www.datadoghq.com/blog/engineering/
+* DataFox http://eng.datafox.co/
 * Deezer https://deezer.io/
 * Deliveroo https://deliveroo.engineering/
 * Discord https://blog.discordapp.com/

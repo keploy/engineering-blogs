@@ -90,6 +90,7 @@
 * Deliveroo https://deliveroo.engineering/
 * Discord https://blog.discordapp.com/
 * Docker https://blog.docker.com/
+* Docler https://medium.com/docler-engineering
 * DoorDash https://doordash.engineering
 * Doximity https://engineering.doximity.com
 * Dream11 https://medium.com/@D11Engg

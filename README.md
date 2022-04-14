@@ -68,6 +68,10 @@
 * Canva https://engineering.canva.com
 * Capgemini https://capgemini.github.io/
 * Cerner http://engineering.cerner.com/
+* Chaps https://blog.chaps.io/
+* Chartbeat http://engineering.chartbeat.com/
+* Chef https://blog.chef.io
+* Cisco https://techblog.cisco.com
 * Clever https://engineering.clever.com/
 * Cloudera https://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/

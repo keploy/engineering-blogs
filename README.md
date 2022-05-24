@@ -31,6 +31,8 @@
 * Advanced Web Machinery https://advancedweb.hu/
 * Airbnb https://medium.com/airbnb-engineering
 * Algolia https://blog.algolia.com/
+* Allegro.tech https://allegro.tech
+* Anvil https://www.useanvil.com/blog/engineering/
 * Appnexus https://techblog.appnexus.com/
 * Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/

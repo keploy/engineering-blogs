@@ -155,6 +155,10 @@
 * Harry's http://engineering.harrys.com/
 * Hashnode https://engineering.hashnode.com/
 * Hashrocket https://hashrocket.com/blog
+* Hasura https://blog.hasura.io/
+* Haus https://engineering.haus.com
+* Healthchecks https://blog.healthchecks.io
+* Heap https://heap.engineering/
 * Helpshift https://medium.com/helpshift-engineering/
 * Heroku https://blog.heroku.com/engineering
 * HomeAway https://tech.homeaway.com/

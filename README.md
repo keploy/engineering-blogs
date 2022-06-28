@@ -108,6 +108,9 @@
 #### E companies
 * Ebay https://www.ebayinc.com/stories/blogs/tech/
 * eFounders https://medium.com/unexpected-token
+* Eharmony http://www.eharmony.com/engineering/
+* Elastic https://www.elastic.co/blog/category/engineering
+* elmah.io https://blog.elmah.io/
 * Elastic https://www.elastic.co/blog/
 * Engine Yard https://blog.engineyard.com/
 * Entelo https://sourcecode.entelo.com/

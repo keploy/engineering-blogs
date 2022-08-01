@@ -166,25 +166,26 @@
 * [Gusto](http://engineering.gusto.com/)
 
 #### H companies
-* [HackerEarth](http://engineering.hackerearth.com/)
-* [Haptik](https://haptik.ai/tech/)
-* [Harry's](http://engineering.harrys.com/)
-* [HashiCorp](https://www.hashicorp.com/blog/)
-* [Hashnode](https://engineering.hashnode.com/)
-* [Hashrocket](https://hashrocket.com/blog)
-* [Hasura](https://blog.hasura.io/)
-* [Haus](https://engineering.haus.com)
-* [Heap](https://heap.engineering/)
-* [Helpshift](https://medium.com/helpshift-engineering/)
-* [HERE](https://developer.here.com/blog)
-* [Heroku](https://blog.heroku.com/engineering)
-* [HireArt](http://code.hireart.com/)
-* [HomeAway](https://tech.homeaway.com/)
-* [Honeybadger](http://blog.honeybadger.io/)
-* [Hootsuite](http://code.hootsuite.com/)
-* [Hostinger](https://www.hostinger.com/blog/engineering/)
-* [Housing.com](https://medium.com/engineering-housing)
-* [HubSpot](http://product.hubspot.com/blog/topic/engineering)
+* HackerEarth http://engineering.hackerearth.com/
+* Haptik https://haptik.ai/tech/
+* Harry's http://engineering.harrys.com/
+* HashiCorp https://www.hashicorp.com/blog/
+* Hashnode https://engineering.hashnode.com/
+* Hashrocket https://hashrocket.com/blog
+* Hasura https://blog.hasura.io/
+* Haus https://engineering.haus.com
+* Heap https://heap.engineering/
+* Helpshift https://medium.com/helpshift-engineering/
+* HERE https://developer.here.com/blog
+* Heroku https://blog.heroku.com/engineering
+* HireArt http://code.hireart.com/
+* HomeAway https://tech.homeaway.com/
+* Honeybadger http://blog.honeybadger.io/
+* Hootsuite http://code.hootsuite.com/
+* Hostinger https://www.hostinger.com/blog/engineering/
+* Housing.com https://medium.com/engineering-housing
+* HubSpot http://product.hubspot.com/blog/topic/engineering
+* Hevo Data https://hevodata.com/learn/
 
 #### I companies
 * [IBM developerWorks](https://developer.ibm.com/dwblog/)

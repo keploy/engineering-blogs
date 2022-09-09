@@ -97,18 +97,19 @@
 * [Curalate](http://engineering.curalate.com/)
 
 #### D companies
-* [Data Artisans](https://data-artisans.com/blog/)
-* [Databricks](https://databricks.com/blog)
-* [DataFox](http://eng.datafox.co/)
-* [Deezer](https://deezer.io/)
-* [Deliveroo](https://deliveroo.engineering/)
-* [DigitalOcean](https://blog.digitalocean.com/tag/engineering/)
-* [Discord](https://blog.discordapp.com/)
-* [Docker](https://blog.docker.com/)
-* [DoorDash](https://blog.doordash.com/tagged/engineering)
-* [Doximity](https://engineering.doximity.com)
-* [Drivy](https://drivy.engineering/)
-* [Dropbox](https://blogs.dropbox.com/tech/)
+* Data Artisans https://data-artisans.com/blog/
+* Databricks https://databricks.com/blog
+* DataFox http://eng.datafox.co/
+* Deezer https://deezer.io/
+* Deliveroo https://deliveroo.engineering/
+* DigitalOcean https://blog.digitalocean.com/tag/engineering/
+* Discord https://blog.discordapp.com/
+* Docker https://blog.docker.com/
+* Docplanner https://medium.com/docplanner-tech
+* DoorDash https://blog.doordash.com/tagged/engineering
+* Doximity https://engineering.doximity.com
+* Drivy https://drivy.engineering/
+* Dropbox https://blogs.dropbox.com/tech/
 
 #### E companies
 * [Ebay](https://www.ebayinc.com/stories/blogs/tech/)

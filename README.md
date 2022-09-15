@@ -766,7 +766,7 @@
 * Red http://www.red-lang.org
 * RocksDB http://rocksdb.org/blog
 * Rust https://blog.rust-lang.org/
-* Ruby on Rails https://rubyonrails.org/
+* Ruby https://www.ruby-lang.org/en/
 
 #### S technologies
 * [Sketch](https://blog.sketchapp.com/)

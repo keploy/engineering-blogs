@@ -28,21 +28,22 @@
 * [99designs](https://99designs.com/tech-blog/)
 
 #### A companies
-* [AdRoll](http://tech.adroll.com/blog/)
-* [Advanced Web Machinery](https://advancedweb.hu/)
-* [Airbnb](https://medium.com/airbnb-engineering)
-* [Algolia](https://blog.algolia.com/)
-* [Allegro.tech](https://allegro.tech)
-* [Appnexus](https://techblog.appnexus.com/)
-* [Arkency](http://blog.arkency.com/)
-* [Artsy](http://artsy.github.io/)
-* [Asana](https://blog.asana.com/category/eng/)
-* [Atlassian](https://developer.atlassian.com/blog/)
-* [Atomic Object](https://spin.atomicobject.com/)
-* [Auth0](https://auth0.com/blog/)
-* [Avenue Code](http://blog.avenuecode.com/)
-* [AWS](https://aws.amazon.com/blogs/aws/)
-* [Azavea](https://www.azavea.com/blog/category/software-development/)
+* AdRoll http://tech.adroll.com/blog/
+* Advanced Web Machinery https://advancedweb.hu/
+* Airbnb https://medium.com/airbnb-engineering
+* Algolia https://blog.algolia.com/
+* Allegro.tech https://allegro.tech
+* Appnexus https://techblog.appnexus.com/
+* Arkency http://blog.arkency.com/
+* Artsy http://artsy.github.io/
+* Asana https://blog.asana.com/category/eng/
+* Ascenda Loyalty https://loyalty.dev/
+* Atlassian https://developer.atlassian.com/blog/
+* Atomic Object https://spin.atomicobject.com/
+* Auth0 https://auth0.com/blog/
+* Avenue Code http://blog.avenuecode.com/
+* AWS https://aws.amazon.com/blogs/aws/
+* Azavea https://www.azavea.com/blog/category/software-development/
 
 #### B companies
 * [Babbel](https://bytes.babbel.com/en/)

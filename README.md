@@ -738,6 +738,9 @@
 #### G technologies
 * [Go](https://blog.golang.org/)
 
+#### H technologies
+* Hanami https://hanamirb.org/
+
 #### I technologies
 * [IPFS](https://ipfs.io/blog/)
 

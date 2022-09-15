@@ -762,11 +762,12 @@
 * [.NET](https://blogs.msdn.microsoft.com/dotnet/)
 
 #### R technologies
-* [React](https://reactjs.org/blog/)
-* [React Native](http://facebook.github.io/react-native/blog/)
-* [Red](http://www.red-lang.org)
-* [RocksDB](http://rocksdb.org/blog)
-* [Rust](https://blog.rust-lang.org/)
+* React https://reactjs.org/blog/
+* React Native http://facebook.github.io/react-native/blog/
+* Red http://www.red-lang.org
+* RocksDB http://rocksdb.org/blog
+* Roda https://roda.jeremyevans.net/
+* Rust https://blog.rust-lang.org/
 
 #### S technologies
 * [Sketch](https://blog.sketchapp.com/)

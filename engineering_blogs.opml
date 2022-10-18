@@ -88,11 +88,14 @@
       <outline type="rss" text="Hashnode" title="Hashnode" xmlUrl="https://engineering.hashnode.com/rss.xml" htmlUrl="https://engineering.hashnode.com/"/>
       <outline type="rss" text="Hashrocket" title="Hashrocket" xmlUrl="https://hashrocket.com/blog.rss" htmlUrl="https://hashrocket.com/blog"/>
       <outline type="rss" text="Helpshift" title="Helpshift" xmlUrl="https://medium.com/feed/helpshift-engineering" htmlUrl="https://medium.com/helpshift-engineering/"/>
-      <outline type="rss" text="Heroku" title="Heroku" xmlUrl="https://blog.heroku.com/engineering" htmlUrl="https://blog.heroku.com/engineering"/>
-      <outline type="rss" text="HomeAway" title="HomeAway" xmlUrl="https://medium.com/feed/expedia-group-tech" htmlUrl="https://tech.homeaway.com/"/>
-      <outline type="rss" text="Honeybadger" title="Honeybadger" xmlUrl="http://blog.honeybadger.io/blog/feed.xml" htmlUrl="http://blog.honeybadger.io/"/>
-      <outline type="rss" text="Hootsuite" title="Hootsuite" xmlUrl="https://medium.com/feed/hootsuite-engineering" htmlUrl="http://code.hootsuite.com/"/>
-      <outline type="rss" text="Hostinger" title="Hostinger" xmlUrl="https://www.hostinger.com/blog/feed" htmlUrl="https://www.hostinger.com/blog/engineering/"/>
+      <outline type="rss" text="HERE" title="HERE" xmlUrl="https://developer.here.com/blog/feed" htmlUrl="https://developer.here.com/blog"/>
+      <outline type="rss" text="Heroku" title="Heroku" xmlUrl="https://blog.heroku.com/engineering/feed" htmlUrl="https://blog.heroku.com/engineering"/>
+      <outline type="rss" text="HireArt" title="HireArt" xmlUrl="http://code.hireart.com/feed.xml" htmlUrl="http://code.hireart.com/"/>
+      <outline type="rss" text="HomeAway" title="HomeAway" xmlUrl="https://medium.com/feed/homeaway-tech-blog" htmlUrl="https://tech.homeaway.com/"/>
+      <outline type="rss" text="Honeybadger" title="Honeybadger" xmlUrl="http://blog.honeybadger.io/feed.xml" htmlUrl="http://blog.honeybadger.io/"/>
+      <outline type="rss" text="Hootsuite" title="Hootsuite" xmlUrl="http://code.hootsuite.com/rss" htmlUrl="http://code.hootsuite.com/"/>
+      <outline type="rss" text="Hostinger" title="Hostinger" xmlUrl="https://www.hostinger.com/blog/feed/" htmlUrl="https://www.hostinger.com/blog/engineering/"/>
+      <outline type="rss" text="Hoststar" title="Hoststar" xmlUrl="https://blog.hotstar.com/feed" htmlUrl="https://blog.hotstar.com/"/>
       <outline type="rss" text="Housing.com" title="Housing.com" xmlUrl="https://medium.com/feed/engineering-housing" htmlUrl="https://medium.com/engineering-housing"/>
       <outline type="rss" text="HubSpot" title="HubSpot" xmlUrl="https://product.hubspot.com/blog/rss.xml" htmlUrl="http://product.hubspot.com/blog/topic/engineering"/>
       <outline type="rss" text="IMVU" title="IMVU" xmlUrl="https://engineering.imvu.com/?feed=rss2" htmlUrl="https://engineering.imvu.com/"/>

@@ -383,19 +383,20 @@
 * [VTS](https://buildingvts.com/)
 
 #### W companies
-* [WalmartLabs](https://medium.com/walmartlabs/)
-* [Wattpad](http://engineering.wattpad.com/)
-* [Wayfair](http://engineering.wayfair.com/)
-* [Wealthfront](http://eng.wealthfront.com/)
-* [We Are Wizards](https://blog.wearewizards.io/)
-* [WebEngage](http://engineering.webengage.com/)
-* [Wemake.services](https://medium.com/wemake-services)
-* [WePay](https://wecode.wepay.com/)
-* [Wimdu](http://tech.wimdu.com/)
-* [Wingify](http://engineering.wingify.com/)
-* [Wombat Security Technologies](http://development.wombatsecurity.com/)
-* [Wonga Technology](http://tech.wonga.com/)
-* [WyeWorks](https://wyeworks.com/blog/)
+* WalmartLabs https://medium.com/walmartlabs/
+* Wattpad http://engineering.wattpad.com/
+* Wayfair http://engineering.wayfair.com/
+* Wealthfront http://eng.wealthfront.com/
+* We Are Wizards https://blog.wearewizards.io/
+* WebEngage http://engineering.webengage.com/
+* Wemake.services https://medium.com/wemake-services
+* WePay https://wecode.wepay.com/
+* Wimdu http://tech.wimdu.com/
+* Wingify http://engineering.wingify.com/
+* Wombat Security Technologies http://development.wombatsecurity.com/
+* Wonga Technology http://tech.wonga.com/
+* Wonolo https://engineeringblog.wonolo.com/
+* WyeWorks https://wyeworks.com/blog/
 
 #### X companies
 * [XING](https://tech.xing.com/)

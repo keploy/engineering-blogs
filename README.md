@@ -344,27 +344,28 @@
 * Swiggy https://bytes.swiggy.com/
 
 #### T companies
-* [Takipi](http://blog.takipi.com/)
-* [Target](https://target.github.io/)
-* [TaskRabbit](http://tech.taskrabbit.com/)
-* [Teamwork](https://engineroom.teamwork.com/)
-* [Teespring](http://teespring.engineering/)
-* [theScore](http://techblog.thescore.com/)
-* [Thoughtbot](https://robots.thoughtbot.com/)
-* [ThoughtWorks](https://www.thoughtworks.com/insights)
-* [Thumbtack](https://www.thumbtack.com/engineering/)
-* [Timescale](https://blog.timescale.com/)
-* [Tinder](https://tech.gotinder.com/)
-* [Toptal](https://www.toptal.com/blog/)
-* [TrackMaven](http://engineroom.trackmaven.com/)
-* [Transferwise](http://tech.transferwise.com/)
-* [TripAdvisor](http://engineering.tripadvisor.com/)
-* [Trivago](http://tech.trivago.com/)
-* [TrueCar](https://www.drivenbycode.com/)
-* [Tumblr](https://engineering.tumblr.com/)
-* [Twilio](https://www.twilio.com/blog/)
-* [Twitter](https://blog.twitter.com/engineering)
-* [Twitch](https://blog.twitch.tv/tagged/engineering)
+* Takipi http://blog.takipi.com/
+* Target https://target.github.io/
+* Taro https://www.jointaro.com/blog/
+* TaskRabbit http://tech.taskrabbit.com/
+* Teamwork https://engineroom.teamwork.com/
+* Teespring http://teespring.engineering/
+* theScore http://techblog.thescore.com/
+* Thoughtbot https://robots.thoughtbot.com/
+* ThoughtWorks https://www.thoughtworks.com/insights
+* Thumbtack https://www.thumbtack.com/engineering/
+* Timescale https://blog.timescale.com/
+* Tinder https://tech.gotinder.com/
+* Toptal https://www.toptal.com/blog/
+* TrackMaven http://engineroom.trackmaven.com/
+* Transferwise http://tech.transferwise.com/
+* TripAdvisor http://engineering.tripadvisor.com/
+* Trivago http://tech.trivago.com/
+* TrueCar https://www.drivenbycode.com/
+* Tumblr https://engineering.tumblr.com/
+* Twilio https://www.twilio.com/blog/
+* Twitter https://blog.twitter.com/engineering
+* Twitch https://blog.twitch.tv/tagged/engineering
 
 #### U companies
 * [Uber](http://eng.uber.com/)

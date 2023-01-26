@@ -112,20 +112,20 @@
 * [Dropbox](https://blogs.dropbox.com/tech/)
 
 #### E companies
-* [Ebay](https://www.ebayinc.com/stories/blogs/tech/)
-* [eFounders](https://medium.com/unexpected-token)
-* [Eharmony](http://www.eharmony.com/engineering/)
-* [Elastic](https://www.elastic.co/blog/category/engineering)
-* [Engine Yard](https://blog.engineyard.com/)
-* [Entelo](https://sourcecode.entelo.com/)
-* [Envato](https://webuild.envato.com/)
-* [Envoy](https://envoy.engineering/)
-* [Erlang Solutions](https://www.erlang-solutions.com/blog.html)
-* [Etsy](https://codeascraft.com/)
-* [Eventbrite](https://www.eventbrite.com/engineering/)
-* [Evernote](https://evernote.com/blog/)
-* [Evil Martians](https://evilmartians.com/chronicles/)
-* [Expedia](https://medium.com/expedia-group-tech)
+* Ebay https://tech.ebayinc.com/rss
+* eFounders https://medium.com/unexpected-token
+* Eharmony http://www.eharmony.com/engineering/
+* Elastic https://www.elastic.co/blog/category/engineering
+* Engine Yard https://blog.engineyard.com/
+* Entelo https://sourcecode.entelo.com/
+* Envato https://webuild.envato.com/
+* Envoy https://envoy.engineering/
+* Erlang Solutions https://www.erlang-solutions.com/blog.html
+* Etsy https://codeascraft.com/
+* Eventbrite https://www.eventbrite.com/engineering/
+* Evernote https://evernote.com/blog/
+* Evil Martians https://evilmartians.com/chronicles/
+* Expedia https://medium.com/expedia-group-tech
 
 #### F companies
 * [Facebook](https://code.facebook.com/posts/)

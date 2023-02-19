@@ -143,28 +143,28 @@
 * [Fynd](http://gofynd.io/blog)
 
 #### G companies
-* [Galois](https://galois.com/blog/)
-* [GameChanger](http://tech.gc.com/)
-* [Geoblink](https://tech.geoblink.com)
-* [Gilt](http://tech.gilt.com)
-* [GIPHY](https://engineering.giphy.com/)
-* [GitHub](https://githubengineering.com/)
-* [GitHub Old](https://github.com/blog/category/engineering)
-* [GoCardless](https://gocardless.com/blog/tagged/engineering/)
-* [GoDaddy](https://godaddy.github.io/engineering/)
-* [Google Online Security](https://security.googleblog.com/)
-* [Google Research](https://research.googleblog.com/)
-* [GoSquared](https://engineering.gosquared.com/)
-* [GO-JEK](https://blog.gojekengineering.com/)
-* [Grab](http://engineering.grab.com/)
-* [Grafana](https://grafana.com/blog/)
-* [Grammarly](https://tech.grammarly.com/blog/index.html)
-* [Graphcool](https://blog.graph.cool/)
-* [Grofers](https://lambda.grofers.com/)
-* [Grouper](http://blog.joingrouper.com/)
-* [Groupon](https://engineering.groupon.com/)
-* [Guardian](https://www.theguardian.com/info/developer-blog)
-* [Gusto](http://engineering.gusto.com/)
+* Galois https://galois.com/blog/
+* GameChanger http://tech.gc.com/
+* Geoblink https://tech.geoblink.com
+* Gilt http://tech.gilt.com
+* GIPHY https://engineering.giphy.com/
+* GitHub https://githubengineering.com/
+* GitHub Old https://github.com/blog/category/engineering
+* GoCardless https://gocardless.com/blog/tagged/engineering/
+* GoDaddy https://godaddy.github.io/engineering/
+* Google Online Security https://security.googleblog.com/
+* Google Research https://research.googleblog.com/
+* GoSquared https://engineering.gosquared.com/
+* GO-JEK https://blog.gojekengineering.com/
+* Grab http://engineering.grab.com/
+* Grafana https://grafana.com/blog/
+* Grammarly https://www.grammarly.com/blog/engineering/
+* Graphcool https://blog.graph.cool/
+* Grofers https://lambda.grofers.com/
+* Grouper http://blog.joingrouper.com/
+* Groupon https://engineering.groupon.com/
+* Guardian https://www.theguardian.com/info/developer-blog
+* Gusto http://engineering.gusto.com/
 
 #### H companies
 * HackerEarth http://engineering.hackerearth.com/

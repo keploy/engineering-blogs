@@ -122,8 +122,12 @@
       <outline type="rss" text="Made Tech" title="Made Tech" xmlUrl="https://www.madetech.com/feed/podcast/" htmlUrl="https://www.madetech.com/blog"/>
       <outline type="rss" text="MapTiler" title="MapTiler" xmlUrl="https://www.maptiler.com/news/feed/posts.xml" htmlUrl="https://www.maptiler.com/blog/"/>
       <outline type="rss" text="Medium" title="Medium" xmlUrl="https://medium.engineering/feed" htmlUrl="https://medium.com/medium-eng"/>
-      <outline type="rss" text="Mesosphere" title="Mesosphere" xmlUrl="https://d2iq.com/feed" htmlUrl="https://mesosphere.com/blog/"/>
-      <outline type="rss" text="Microsoft Python Engineering" title="Microsoft Python Engineering" xmlUrl="https://devblogs.microsoft.com/python/feed/" htmlUrl="https://blogs.msdn.microsoft.com/pythonengineering/"/>
+      <outline type="rss" text="Meltwater" title="Meltwater" xmlUrl="https://underthehood.meltwater.com/atom.xml" htmlUrl="https://underthehood.meltwater.com/"/>
+      <outline type="rss" text="MemSQL" title="MemSQL" xmlUrl="http://blog.memsql.com/feed/" htmlUrl="http://blog.memsql.com/content/engineering/"/>
+      <outline type="rss" text="Mesosphere" title="Mesosphere" xmlUrl="https://mesosphere.com/feed/" htmlUrl="https://mesosphere.com/blog/"/>
+      <outline type="rss" text="Microsoft Python Engineering" title="Microsoft Python Engineering" xmlUrl="http://blogs.msdn.microsoft.com/pythonengineering/feed/" htmlUrl="https://blogs.msdn.microsoft.com/pythonengineering/"/>
+      <outline type="rss" text="Mixmax" title="Mixmax" xmlUrl="https://engineering.mixmax.com/rss/" htmlUrl="https://engineering.mixmax.com/"/>
+      <outline type="rss" text="Mixpanel" title="Mixpanel" xmlUrl="https://engineering.mixpanel.com/feed/" htmlUrl="https://code.mixpanel.com/"/>
       <outline type="rss" text="Moove-it" title="Moove-it" xmlUrl="https://blog.moove-it.com/rss" htmlUrl="https://blog.moove-it.com/"/>
       <outline type="rss" text="Mozilla Automation Team" title="Mozilla Automation Team" xmlUrl="https://planet.mozilla.org/automation/atom.xml" htmlUrl="https://planet.mozilla.org/ateam/"/>
       <outline type="rss" text="Mozilla Hacks" title="Mozilla Hacks" xmlUrl="https://hacks.mozilla.org/feed/" htmlUrl="https://hacks.mozilla.org/"/>

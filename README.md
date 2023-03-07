@@ -624,14 +624,15 @@
 * [Mykhailo Kozik](http://mishadoff.com/)
 
 #### N individuals
-* [Natasha Murashev](https://natashatherobot.com)
-* [Nelson Elhage](https://blog.nelhage.com/)
-* [Nic Raboy](https://www.thepolyglotdeveloper.com/blog/)
-* [Nick Craver](https://nickcraver.com/blog/)
-* [Nick Desaulniers](https://nickdesaulniers.github.io/)
-* [Nick Galbreath](http://www.client9.com/)
-* [Nicolas Liochon](http://blog.thislongrun.com/)
-* [Nicolai Parlog (CodeFX)](http://codefx.org)
+* Natasha Murashev https://natashatherobot.com
+* Nayuki https://www.nayuki.io/
+* Nelson Elhage https://blog.nelhage.com/
+* Nic Raboy https://www.thepolyglotdeveloper.com/blog/
+* Nick Craver https://nickcraver.com/blog/
+* Nick Desaulniers https://nickdesaulniers.github.io/
+* Nick Galbreath http://www.client9.com/
+* Nicolas Liochon http://blog.thislongrun.com/
+* Nicolai Parlog (CodeFX) http://codefx.org
 * Nikola Brežnjak http://www.nikola-breznjak.com/blog/
 * [Nikolay Nemshilov](http://nikolay.rocks/)
 * [NSHipster](http://nshipster.com/)

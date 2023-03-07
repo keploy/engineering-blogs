@@ -588,14 +588,15 @@
 * [Kyle Kingsbury](https://aphyr.com/)
 
 #### L individuals
-* [Lambda the Ultimate](http://lambda-the-ultimate.org/)
-* [Larry Land](https://lg.io/)
-* [Lazarus Lazaridis](https://iridakos.com)
-* [Lea Verou](http://lea.verou.me/)
-* [Lerner Consulting Blog](http://blog.lerner.co.il/)
-* [Life Plus Linux](http://lifepluslinux.blogspot.in/)
-* [LiveOverflow](https://liveoverflow.com/blog/index.html)
-* [Luciano Mammino](https://loige.co/)
+* Lambda the Ultimate http://lambda-the-ultimate.org/
+* Larry Land https://lg.io/
+* Lazarus Lazaridis https://iridakos.com
+* Lea Verou http://lea.verou.me/
+* Lerner Consulting Blog http://blog.lerner.co.il/
+* Life Plus Linux http://lifepluslinux.blogspot.in/
+* LiveOverflow https://liveoverflow.com/blog/index.html
+* Lob https://www.lob.com/category/engineering
+* Luciano Mammino https://loige.co/
 
 #### M individuals
 * [Manu Sporny](http://manu.sporny.org/)

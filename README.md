@@ -683,15 +683,16 @@
 * [Ruslan Spivak](https://ruslanspivak.com/)
 
 #### S individuals
-* [Sakib Sami](https://www.sakib.ninja)
-* [Sam Saffron](https://samsaffron.com/)
-* [Sergey Zhuk](http://sergeyzhuk.me/)
-* [Schakko](https://schakko.de)
-* [Scott Hanselman](http://www.hanselman.com/blog/)
-* [Scott Johnson](http://www.fuzzyblog.io/blog/)
-* [Simon Reimler](https://devdactic.com/devblog/)
-* [Srinivas Tamada](https://www.9lessons.info/)
-* [Stack Abuse](http://www.stackabuse.com/)
+* Sakib Sami https://www.sakib.ninja
+* Sam Saffron https://samsaffron.com/
+* Sergey Zhuk http://sergeyzhuk.me/
+* Schakko https://schakko.de
+* Scott Hanselman http://www.hanselman.com/blog/
+* Scott Johnson http://www.fuzzyblog.io/blog/
+* Silvestar Bistrović https://www.silvestar.codes/
+* Simon Reimler https://devdactic.com/devblog/
+* Srinivas Tamada https://www.9lessons.info/
+* Stack Abuse http://www.stackabuse.com/
 * Stanko Tadić https://muffinman.io
 * [Stefan Parker](http://codebeforethehorse.tumblr.com/)
 * [Stephen Colebourne](http://blog.joda.org/)

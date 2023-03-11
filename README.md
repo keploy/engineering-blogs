@@ -190,17 +190,17 @@
 * HubSpot http://product.hubspot.com/blog/topic/engineering
 
 #### I companies
-* [IBM developerWorks](https://developer.ibm.com/dwblog/)
-* [IFTTT](http://engineering.ifttt.com/)
-* [IMVU](https://engineering.imvu.com/)
-* [Imaginea](https://blog.imaginea.com/)
-* [Imgur](https://blog.imgur.com/category/eng/)
-* [Indeed](http://engineering.indeedblog.com/blog/)
-* [Instacart](https://tech.instacart.com/)
-* [Instagram](https://engineering.instagram.com/)
-* [Intel](https://software.intel.com/en-us/blogs/)
-* [Intent Media](http://intentmedia.com/blog/)
-* [Intercom](https://engineering.intercom.io/)
+* IBM developerWorks https://developer.ibm.com/dwblog/
+* IFTTT http://engineering.ifttt.com/
+* IMVU https://engineering.imvu.com/
+* Imaginea https://blog.imaginea.com/
+* Imgur https://blog.imgur.com/category/eng/
+* Indeed http://engineering.indeedblog.com/blog/
+* Instacart https://tech.instacart.com/
+* Instagram https://engineering.fb.com/tag/instagram/
+* Intel https://software.intel.com/en-us/blogs/
+* Intent Media http://intentmedia.com/blog/
+* Intercom https://engineering.intercom.io/
 
 #### J companies
 * [Jane Street](https://blogs.janestreet.com/category/ocaml/)

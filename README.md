@@ -528,12 +528,13 @@
 * [Guilherme Rodrigues](https://firstdoit.com/)
 
 #### H individuals
-* [Hayden James](https://haydenjames.io/)
-* [Henrik Lau Eriksson](https://conductofcode.io/)
-* [Henrik Warne](https://henrikwarne.com/)
-* [High Scalability](http://highscalability.com/)
-* [Huon Wilson](http://huonw.github.io/)
-* [Hypriot](http://blog.hypriot.com/)
+* Hayden James https://haydenjames.io/
+* Henrik Lau Eriksson https://conductofcode.io/
+* Henrik Warne https://henrikwarne.com/
+* High Scalability http://highscalability.com/
+* Hristo Iliev https://thatonegamedev.com/
+* Huon Wilson http://huonw.github.io/
+* Hypriot http://blog.hypriot.com/
 
 #### I individuals
 * [Ian Hummel](https://themodernlife.github.io/)

@@ -549,40 +549,41 @@
 * [Ivan Ursul](https://ivanursul.com/)
 
 #### J individuals
-* [Jacopo Tarantino](https://jack.ofspades.com/)
-* [Jake Trent](https://jaketrent.com)
-* [Jake Wharton](http://jakewharton.com/blog)
-* [Jake Yesbeck](http://jakeyesbeck.com/)
-* [James Hague](http://prog21.dadgum.com/)
-* [James Long](http://jlongster.com/archive)
-* [Jamis Buck](http://weblog.jamisbuck.org/)
-* [Jan Lelis](https://idiosyncratic-ruby.com/)
-* [Jay Fields](http://blog.jayfields.com)
-* [Jeff Atwood](https://blog.codinghorror.com/)
-* [Jeff Preshing](http://preshing.com/)
-* [Jeremy Kun](https://jeremykun.com/)
-* [Jerry Gamblin](https://jerrygamblin.com/)
-* [Jesal Gadhia](https://jes.al/)
-* [Jessie Frazelle](https://blog.jessfraz.com/)
-* [Jesus Castello](http://www.blackbytes.info/)
-* [Joe Armstrong](https://joearms.github.io/)
-* [Joe Nelson](https://begriffs.com/)
-* [Joel Spolsky](https://www.joelonsoftware.com/)
-* [Johannes Brodwall](http://johannesbrodwall.com/)
-* [John Resig](https://johnresig.com/category/blog/)
-* [John Wittenauer](http://www.johnwittenauer.net/)
-* [Jon Kensy](http://www.jonkensy.com/)
-* [Jon Skeet](https://codeblog.jonskeet.uk/)
-* [Jonas Plum](https://blog.cugu.eu/)
-* [Jonathan Dekhtiar](http://www.born2data.com/)
-* [Jonathan Snook](https://snook.ca/)
-* [Josh Haberman](http://blog.reverberate.org/)
-* [Josh Sherman](https://joshtronic.com/)
-* [Juan Treminio](https://jtreminio.com)
-* [Julia Evans](https://jvns.ca/)
-* [Junior Grossi](https://blog.jgrossi.com/)
-* [Justin Weiss](https://www.justinweiss.com/articles/archives/)
-* [Juri Strumpflohner](https://juristr.com/blog/)
+* Jacopo Tarantino https://jack.ofspades.com/
+* Jake Trent https://jaketrent.com
+* Jake Wharton http://jakewharton.com/blog
+* Jake Yesbeck http://jakeyesbeck.com/
+* James Hague http://prog21.dadgum.com/
+* James Long http://jlongster.com/archive
+* Jamis Buck http://weblog.jamisbuck.org/
+* Jan Lelis https://idiosyncratic-ruby.com/
+* Jay Fields http://blog.jayfields.com
+* Jeff Atwood https://blog.codinghorror.com/
+* Jeff Preshing http://preshing.com/
+* Jeremy Kun https://jeremykun.com/
+* Jerry Gamblin https://jerrygamblin.com/
+* Jesal Gadhia https://jes.al/
+* Jessie Frazelle https://blog.jessfraz.com/
+* Jesus Castello http://www.blackbytes.info/
+* Joe Armstrong https://joearms.github.io/
+* Joe Nelson https://begriffs.com/
+* Joel Spolsky https://www.joelonsoftware.com/
+* Joep Weijers https://joepweijers.nl/?technical-notes
+* Johannes Brodwall http://johannesbrodwall.com/
+* John Resig https://johnresig.com/category/blog/
+* John Wittenauer http://www.johnwittenauer.net/
+* Jon Kensy http://www.jonkensy.com/
+* Jon Skeet https://codeblog.jonskeet.uk/
+* Jonas Plum https://blog.cugu.eu/
+* Jonathan Dekhtiar http://www.born2data.com/
+* Jonathan Snook https://snook.ca/
+* Josh Haberman http://blog.reverberate.org/
+* Josh Sherman https://joshtronic.com/
+* Juan Treminio https://jtreminio.com
+* Julia Evans https://jvns.ca/
+* Junior Grossi https://blog.jgrossi.com/
+* Justin Weiss https://www.justinweiss.com/articles/archives/
+* Juri Strumpflohner https://juristr.com/blog/
 
 #### K individuals
 * [K. Harrison](https://useyourloaf.com/)

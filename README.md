@@ -213,12 +213,13 @@
 * [Just Eat](https://tech.just-eat.com/)
 
 #### K companies
-* [Khan Academy](http://engineering.khanacademy.org)
-* [Kickstarter](https://www.kickstarter.com/backing-and-hacking)
-* [King](https://techblog.king.com/)
-* [Kinvolk](https://kinvolk.io/blog/)
-* [Kogan.com](https://devblog.kogan.com/)
-* [Kolosek](https://kolosek.com/blog/)
+* Khan Academy http://engineering.khanacademy.org
+* Kickstarter https://www.kickstarter.com/backing-and-hacking
+* King https://techblog.king.com/
+* Kinvolk https://kinvolk.io/blog/
+* Klaviyo https://klaviyo.tech/
+* Kogan.com https://devblog.kogan.com/
+* Kolosek https://kolosek.com/blog/
 
 #### L companies
 * [Latacora](https://latacora.singles/)

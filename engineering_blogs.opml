@@ -113,10 +113,15 @@
       <outline type="rss" text="Just Eat" title="Just Eat" xmlUrl="https://tech.justeattakeaway.com/feed/" htmlUrl="https://tech.just-eat.com/"/>
       <outline type="rss" text="Khan Academy" title="Khan Academy" xmlUrl="http://engineering.khanacademy.org/rss" htmlUrl="http://engineering.khanacademy.org"/>
       <outline type="rss" text="Kinvolk" title="Kinvolk" xmlUrl="https://kinvolk.io/blog/index.xml" htmlUrl="https://kinvolk.io/blog/"/>
-      <outline type="rss" text="Kogan.com" title="Kogan.com" xmlUrl="https://devblog.kogan.com/blog?format=rss" htmlUrl="https://devblog.kogan.com/"/>
-      <outline type="rss" text="Kolosek" title="Kolosek" xmlUrl="https://kolosek.com/blog/rss/" htmlUrl="https://kolosek.com/blog/"/>
-      <outline type="rss" text="LINE" title="LINE" xmlUrl="https://engineering.linecorp.com/en/blog" htmlUrl="https://engineering.linecorp.com/en/blog"/>
-      <outline type="rss" text="LiveRamp" title="LiveRamp" xmlUrl="https://liveramp.com/wp-json/wp/v2/pages/1041448" htmlUrl="https://liveramp.com/engineering/"/>
+      <outline type="rss" text="Klaviyo" title="Klaviyo" xmlUrl="https://klaviyo.tech/feed" htmlUrl="https://klaviyo.tech/"/>
+      <outline type="rss" text="Kogan.com" title="Kogan.com" xmlUrl="https://devblog.kogan.com/blog?format=RSS" htmlUrl="https://devblog.kogan.com/"/>
+      <outline type="rss" text="Kolosek" title="Kolosek" xmlUrl="https://kolosek.com/rss/" htmlUrl="https://kolosek.com/blog/"/>
+      <outline type="rss" text="Latacora" title="Latacora" xmlUrl="https://latacora.micro.blog/feed.xml" htmlUrl="https://latacora.singles/"/>
+      <outline type="rss" text="Laterooms" title="Laterooms" xmlUrl="http://engineering.laterooms.com/rss/" htmlUrl="http://engineering.laterooms.com/"/>
+      <outline type="rss" text="LendingHome" title="LendingHome" xmlUrl="https://tech.lendinghome.com/feed" htmlUrl="https://tech.lendinghome.com/"/>
+      <outline type="rss" text="LINE" title="LINE" xmlUrl="https://engineering.linecorp.com/en/blog/rss2" htmlUrl="https://engineering.linecorp.com/en/blog"/>
+      <outline type="rss" text="LiveChat" title="LiveChat" xmlUrl="https://developers.livechatinc.com/blog/rss" htmlUrl="https://developers.livechatinc.com/blog/"/>
+      <outline type="rss" text="LiveRamp" title="LiveRamp" xmlUrl="https://liveramp.com/engineering/feed/" htmlUrl="https://liveramp.com/engineering/"/>
       <outline type="rss" text="Localytics" title="Localytics" xmlUrl="https://eng.localytics.com/rss/" htmlUrl="http://eng.localytics.com/"/>
       <outline type="rss" text="Lyft" title="Lyft" xmlUrl="https://eng.lyft.com/feed" htmlUrl="https://eng.lyft.com/"/>
       <outline type="rss" text="Made Tech" title="Made Tech" xmlUrl="https://www.madetech.com/feed/podcast/" htmlUrl="https://www.madetech.com/blog"/>

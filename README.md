@@ -659,15 +659,16 @@
 * [Paul Irish](https://www.paulirish.com/)
 * [Paul Lewis](https://aerotwist.com/blog/)
 * Paweł Chudzik https://blog.pchudzik.com/
-* [Peter Norvig](http://norvig.com/)
-* [Peter Steinberger](http://petersteinberger.com/)
-* [Peteris Krumins](http://www.catonmat.net/blog/)
-* [Petr Mitrichev](http://petr-mitrichev.blogspot.com/)
-* [Philip Walton](https://philipwalton.com/)
-* [Philipp Oppermann](https://os.phil-opp.com/)
-* [Pony Foo](https://ponyfoo.com/)
-* [Piotr Pasich](http://piotrpasich.com/)
-* [Piotr Wittchen](http://blog.wittchen.biz.pl/)
+* Peter Norvig http://norvig.com/
+* Peter P. Lupo http://blog.pplupo.com/
+* Peter Steinberger http://petersteinberger.com/
+* Peteris Krumins http://www.catonmat.net/blog/
+* Petr Mitrichev http://petr-mitrichev.blogspot.com/
+* Philip Walton https://philipwalton.com/
+* Philipp Oppermann https://os.phil-opp.com/
+* Pony Foo https://ponyfoo.com/
+* Piotr Pasich http://piotrpasich.com/
+* Piotr Wittchen http://blog.wittchen.biz.pl/
 
 #### R individuals
 * [Rachel Kroll](https://rachelbythebay.com/w/)

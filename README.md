@@ -28,8 +28,10 @@
 * [99designs](https://99designs.com/tech-blog/)
 
 #### A companies
+* Adobe https://blog.developer.adobe.com/
 * AdRoll http://tech.adroll.com/blog/
 * Advanced Web Machinery https://advancedweb.hu/
+* Agoda https://medium.com/@agoda.eng
 * Airbnb https://medium.com/airbnb-engineering
 * Algolia https://blog.algolia.com/
 * Allegro.tech https://allegro.tech
@@ -56,14 +58,15 @@
 * BBC https://medium.com/bbc-design-engineering/
 * Benchling https://benchling.engineering/
 * BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
-* Better Stack https://betterstack.com/community/
+* Bharatpe https://labs.bharatpe.com/series/tech
 * Bigcommerce http://www.bigeng.io/
 * Binary Studio https://binary-studio.com/blog/
-* bitExpert https://blog.bitexpert.de/
+* Bing https://blogs.bing.com/Engineering-Blog
 * BitTorrent http://engineering.bittorrent.com/
 * BlaBlaCar http://blablatech.com/blog/
 * BlackRock http://rockthecode.io/
 * Blender https://code.blender.org/
+* Blinkit https://lambda.blinkit.com/
 * Blogfoster http://engineering.blogfoster.com/
 * Booking.com https://blog.booking.com/
 * Boxever http://www.boxever.com/blog/
@@ -90,28 +93,30 @@
 * [Coinbase](https://engineering.coinbase.com/)
 * [Commercetools](https://techblog.commercetools.com/)
 * Condé Nast https://technology.condenast.com/
-* [Confluent](https://www.confluent.io/blog)
-* [Convox](https://convox.com/blog)
-* [Coolblue](http://devblog.coolblue.nl/)
-* [Credit Karma](https://engineering.creditkarma.com/)
-* [Criteo](https://medium.com/criteo-labs)
-* [Crowdfire](https://crowdfire.engineering/)
-* [CSC - IT Center For Science - Cloud Team](https://cloud.blog.csc.fi/)
-* [Curalate](http://engineering.curalate.com/)
+* Confluent https://www.confluent.io/blog
+* Convox https://convox.com/blog
+* Coolblue http://devblog.coolblue.nl/
+* Cred https://engineering.cred.club/
+* Credit Karma https://engineering.creditkarma.com/
+* Criteo https://medium.com/criteo-labs
+* Crowdfire https://crowdfire.engineering/
+* CSC - IT Center For Science - Cloud Team https://cloud.blog.csc.fi/
+* Curalate http://engineering.curalate.com/
 
 #### D companies
-* [Data Artisans](https://data-artisans.com/blog/)
-* [Databricks](https://databricks.com/blog)
-* [DataFox](http://eng.datafox.co/)
-* [Deezer](https://deezer.io/)
-* [Deliveroo](https://deliveroo.engineering/)
-* [DigitalOcean](https://blog.digitalocean.com/tag/engineering/)
-* [Discord](https://blog.discordapp.com/)
-* [Docker](https://blog.docker.com/)
-* [DoorDash](https://blog.doordash.com/tagged/engineering)
-* [Doximity](https://engineering.doximity.com)
-* [Drivy](https://drivy.engineering/)
-* [Dropbox](https://blogs.dropbox.com/tech/)
+* Data Artisans https://data-artisans.com/blog/
+* Databricks https://databricks.com/blog
+* DataFox http://eng.datafox.co/
+* Deezer https://deezer.io/
+* Deliveroo https://deliveroo.engineering/
+* DigitalOcean https://blog.digitalocean.com/tag/engineering/
+* Discord https://blog.discordapp.com/
+* Docker https://blog.docker.com/
+* DoorDash https://blog.doordash.com/tagged/engineering
+* Doximity https://engineering.doximity.com
+* Drivy https://drivy.engineering/
+* Dropbox https://blogs.dropbox.com/tech/
+* Dunzo https://blog.dunzo.com/
 
 #### E companies
 * Ebay https://tech.ebayinc.com/rss
@@ -130,19 +135,20 @@
 * Expedia https://medium.com/expedia-group-tech
 
 #### F companies
-* [Facebook](https://code.facebook.com/posts/)
-* [Facebook AI Research](https://engineering.fb.com/category/ai-research/)
-* [Faraday](http://blog.faraday.io/)
-* [Feedzai](https://medium.com/feedzaitech)
-* [Fiftythree](http://making.fiftythree.com/)
-* [Findmypast](http://tech.findmypast.com/)
-* [Finn.no](http://tech.finn.no/)
-* [Firmafon](https://dev.firmafon.dk/blog/)
-* [Flickr](http://code.flickr.net/)
-* [Foursquare](https://engineering.foursquare.com/)
-* [Freeletics](https://freeletics.engineering/)
-* [Future Processing](https://www.future-processing.pl/technical-blog/)
-* [Fynd](http://gofynd.io/blog)
+* Facebook https://code.facebook.com/posts/
+* Facebook AI Research https://engineering.fb.com/category/ai-research/
+* Faraday http://blog.faraday.io/
+* Feedzai https://medium.com/feedzaitech
+* Fiftythree http://making.fiftythree.com/
+* Findmypast http://tech.findmypast.com/
+* Finn.no http://tech.finn.no/
+* Firmafon https://dev.firmafon.dk/blog/
+* Flickr http://code.flickr.net/
+* Flipkart https://blog.flipkart.tech/
+* Foursquare https://engineering.foursquare.com/
+* Freeletics https://freeletics.engineering/
+* Future Processing https://www.future-processing.pl/technical-blog/
+* Fynd http://gofynd.io/blog
 
 #### G companies
 * Galois https://galois.com/blog/
@@ -186,7 +192,7 @@
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
 * Hostinger https://www.hostinger.com/blog/engineering/
-* Hoststar https://blog.hotstar.com/
+* Hotstar https://blog.hotstar.com/
 * Housing.com https://medium.com/engineering-housing
 * HubSpot http://product.hubspot.com/blog/topic/engineering
 * Hyperswitch https://hyperswitch.io/blog
@@ -198,6 +204,7 @@
 * Imaginea https://blog.imaginea.com/
 * Imgur https://blog.imgur.com/category/eng/
 * Indeed http://engineering.indeedblog.com/blog/
+* Infosys https://blogs.infosys.com/
 * Instacart https://tech.instacart.com/
 * Instagram https://engineering.fb.com/tag/instagram/
 * Intel https://software.intel.com/en-us/blogs/
@@ -205,12 +212,13 @@
 * Intercom https://engineering.intercom.io/
 
 #### J companies
-* [Jane Street](https://blogs.janestreet.com/category/ocaml/)
-* [Jet Technology](https://tech.jet.com/)
-* [Jobandtalent](https://jobandtalent.engineering/)
-* [JobTeaser](https://medium.com/jobteaser-dev-team/)
-* [Jolly Good Code](https://jollygoodcode.github.io/)
-* [Just Eat](https://tech.just-eat.com/)
+* Jane Street https://blogs.janestreet.com/category/ocaml/
+* Jet Technology https://tech.jet.com/
+* Jio https://medium.com/engineering-jio-com
+* Jobandtalent https://jobandtalent.engineering/
+* JobTeaser https://medium.com/jobteaser-dev-team/
+* Jolly Good Code https://jollygoodcode.github.io/
+* Just Eat https://tech.just-eat.com/
 
 #### K companies
 * Khan Academy http://engineering.khanacademy.org
@@ -251,41 +259,48 @@
 * Mozilla Release Engineering https://planet.mozilla.org/releng/
 
 #### N companies
-* [Netflix](https://medium.com/netflix-techblog)
-* [New York Times](https://open.blogs.nytimes.com)
-* [Nextdoor](https://engblog.nextdoor.com/)
-* [Nordic APIs](https://nordicapis.com/blog/)
-* [Novoda](https://www.novoda.com/blog/)
-* [NPR Apps](http://blog.apps.npr.org/)
-* [Nvidia](https://blogs.nvidia.com/)
+* Netflix https://medium.com/netflix-techblog
+* New York Times https://open.blogs.nytimes.com
+* Nextdoor https://engblog.nextdoor.com/
+* Nike https://medium.com/nikeengineering
+* Nobroker https://medium.com/nobroker-engineering
+* Nordic APIs https://nordicapis.com/blog/
+* Notion https://www.notion.so/blog/topic/tech
+* Novoda https://www.novoda.com/blog/
+* NPR Apps http://blog.apps.npr.org/
+* Nvidia https://blogs.nvidia.com/
 
 #### O companies
-* [OCTO Technology](https://blog.octo.com/en/)
-* [Okta](https://developer.okta.com/blog/)
-* [OLX](https://tech.olx.com/)
-* [OmniTI](https://omniti.com/seeds/stop-collaborate-and-listen-notify)
-* [OpenDNS](https://engineering.opendns.com/)
-* [Oursky](https://code.oursky.com/)
-* [Opensooq](http://engineering.opensooq.com/)
+* OCTO Technology https://blog.octo.com/en/
+* Okta https://developer.okta.com/blog/
+* OLX https://tech.olx.com/
+* OmniTI https://omniti.com/seeds/stop-collaborate-and-listen-notify
+* OpenDNS https://engineering.opendns.com/
+* OpenAI https://openai.com/blog
+* Oursky https://code.oursky.com/
+* Opensooq http://engineering.opensooq.com/
 
 #### P companies
-* [Panorama Education](http://engineering.panoramaed.com/)
-* [Paperless Post](https://www.paperlesspost.com/blog/teams/tech/)
-* [Paypal](https://www.paypal-engineering.com/)
-* [PicCollage](https://tech.pic-collage.com/)
-* [Pinterest](https://medium.com/@Pinterest_Engineering)
-* [Pivotal](https://engineering.pivotal.io)
-* [Pluralsight](https://www.pluralsight.com/guides)
-* [Postman](https://medium.com/better-practices)
-* [Postmark](https://postmarkapp.com/blog)
-* [Postmates](https://blog.postmates.com/tagged/engineering)
-* [Prezi](https://medium.com/prezi-engineering)
-* [Prolific Interactive](http://blog.prolificinteractive.com/category/development/)
+* Panorama Education http://engineering.panoramaed.com/
+* Paperless Post https://www.paperlesspost.com/blog/teams/tech/
+* Paypal https://www.paypal-engineering.com/
+* Paytm https://paytm.com/blog/engineering/
+* Phonepe https://tech.phonepe.com/
+* PicCollage https://tech.pic-collage.com/
+* Pinterest https://medium.com/@Pinterest_Engineering
+* Pivotal https://engineering.pivotal.io
+* Pluralsight https://www.pluralsight.com/guides
+* Postman https://medium.com/better-practices
+* Postmark https://postmarkapp.com/blog
+* Postmates https://blog.postmates.com/tagged/engineering
+* Prezi https://medium.com/prezi-engineering
+* Prolific Interactive http://blog.prolificinteractive.com/category/development/
 * PubNub: https://www.pubnub.com/blog/
 * [PullReview](http://blog.8thcolor.com/)
 
 #### Q companies
-* [Quora](https://engineering.quora.com/)
+* Qualcomm https://developer.qualcomm.com/blogs
+* Quora https://engineering.quora.com/
 
 #### R companies
 * [Raizlabs](https://www.raizlabs.com/dev/)
@@ -403,6 +418,7 @@
 * Whatnot https://medium.com/whatnot-engineering
 * Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
+* Wipro https://www.wipro.com/blogs/
 * Wombat Security Technologies http://development.wombatsecurity.com/
 * Wonga Technology http://tech.wonga.com/
 * Wonolo https://engineeringblog.wonolo.com/
@@ -437,22 +453,23 @@
 * [0xADADA](https://0xadada.pub/)
 
 #### A individuals
-* [Aaron Patterson](http://tenderlovemaking.com/)
-* [Abu Ashraf Masnun](http://masnun.com/)
-* [Addy Osmani](https://addyosmani.com/blog/)
-* [Alan Storm](http://alanstorm.com/)
-* [Alex Russell](https://infrequently.org/)
-* [Amit Merchant](https://www.amitmerchant.com/)
-* [Anders Aarvik](http://aarvik.dk/)
-* [Andreas Schuster](https://computer.forensikblog.de/en/)
-* [Andrew Bancroft](http://www.andrewcbancroft.com/)
-* [Andrew Ray](https://blog.andrewray.me/)
-* [Andrey Akinshin](http://aakinshin.net/blog/)
-* [Antirez](http://antirez.com/latest/0)
-* [Ariejan de Vroom](https://ariejan.net/)
-* [Ariya Hidayat](https://ariya.io/)
-* [Armin Ronacher](http://lucumr.pocoo.org/)
-* [Axel Rauschmayer](http://www.2ality.com/)
+* Aaron Patterson http://tenderlovemaking.com/
+* Ajit Fawade https://blog.ajitfawade.com/
+* Abu Ashraf Masnun http://masnun.com/
+* Addy Osmani https://addyosmani.com/blog/
+* Alan Storm http://alanstorm.com/
+* Alex Russell https://infrequently.org/
+* Amit Merchant https://www.amitmerchant.com/
+* Anders Aarvik http://aarvik.dk/
+* Andreas Schuster https://computer.forensikblog.de/en/
+* Andrew Bancroft http://www.andrewcbancroft.com/
+* Andrew Ray https://blog.andrewray.me/
+* Andrey Akinshin http://aakinshin.net/blog/
+* Antirez http://antirez.com/latest/0
+* Ariejan de Vroom https://ariejan.net/
+* Ariya Hidayat https://ariya.io/
+* Armin Ronacher http://lucumr.pocoo.org/
+* Axel Rauschmayer http://www.2ality.com/
 
 #### B individuals
 * [Bad Concurrency](http://bad-concurrency.blogspot.com/)

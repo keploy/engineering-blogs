@@ -692,21 +692,22 @@
 * [Rachel Kroll](https://rachelbythebay.com/w/)
 * [Radek Pazdera](http://radek.io)
 * Radim Řehůřek https://radimrehurek.com/blog/
-* [Ramon Fried](https://nativeguru.wordpress.com/)
-* [Ray Wenderlich](https://www.raywenderlich.com/)
-* [Raymond Chen](https://blogs.msdn.microsoft.com/oldnewthing/)
-* [Raymond Hettinger](https://rhettinger.wordpress.com/)
-* [ReactJS News](https://reactjsnews.com)
-* [Real Python](https://realpython.com/blog/)
-* [Reginald Braithwaite](http://raganwald.com/#essays)
-* [Regular Geek](http://regulargeek.com/)
-* [Rob Allen](https://akrabat.com/)
-* [Robert C. Martin](http://blog.cleancoder.com/)
-* [Robin Ward](https://eviltrout.com/)
-* [Robin Wilson](http://blog.rtwilson.com/)
-* [Rudy Huyn](http://www.rudyhuyn.com/blog/)
-* [Rudolf Olah](https://neverfriday.com/blog/)
-* [Ruslan Spivak](https://ruslanspivak.com/)
+* Ramon Fried https://nativeguru.wordpress.com/
+* Ray Wenderlich https://www.raywenderlich.com/
+* Raymond Chen https://blogs.msdn.microsoft.com/oldnewthing/
+* Raymond Hettinger https://rhettinger.wordpress.com/
+* ReactJS News https://reactjsnews.com
+* Real Python https://realpython.com/blog/
+* Reginald Braithwaite http://raganwald.com/#essays
+* Regular Geek http://regulargeek.com/
+* Rob Allen https://akrabat.com/
+* Robert C. Martin http://blog.cleancoder.com/
+* Robin Ward https://eviltrout.com/
+* Robin Wilson http://blog.rtwilson.com/
+* Robiul H. https://robiul.dev/
+* Rudy Huyn http://www.rudyhuyn.com/blog/
+* Rudolf Olah https://neverfriday.com/blog/
+* Ruslan Spivak https://ruslanspivak.com/
 
 #### S individuals
 * Sakib Sami https://www.sakib.ninja

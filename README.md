@@ -303,22 +303,23 @@
 * Quora https://engineering.quora.com/
 
 #### R companies
-* [Raizlabs](https://www.raizlabs.com/dev/)
-* [RapidAPI](http://blog.rapidapi.com/)
-* [REA Group](https://www.rea-group.com/category/tech/)
-* [Realm.io](https://realm.io/news/)
-* [Redbubble](http://artplustech.com/)
-* [Redino](http://redino.net/blog/)
-* [Reddit](https://www.reddit.com/r/RedditEng/)
-* [Red Hat](https://developers.redhat.com/blog/)
-* [Remind](http://engineering.remind.com/)
-* [RetailMeNot](https://medium.com/retailmenot-engineering/)
-* [Rightscale](http://eng.rightscale.com/)
-* [Riot Games](https://engineering.riotgames.com/)
-* [RisingStack](https://blog.risingstack.com/)
-* [Robert Elder Software](http://blog.robertelder.org/)
-* [RoseHosting](https://www.rosehosting.com/blog/)
-* [Runtastic](https://www.runtastic.com/blog/en/category/tech/)
+* Raizlabs https://www.raizlabs.com/dev/
+* RapidAPI http://blog.rapidapi.com/
+* REA Group https://www.rea-group.com/category/tech/
+* Realm.io https://realm.io/news/
+* Redbubble http://artplustech.com/
+* Redino http://redino.net/blog/
+* Reddit https://www.reddit.com/r/RedditEng/
+* Red Hat https://developers.redhat.com/blog/
+* Remedy Entertainment https://www.remedygames.com/northlight
+* Remind http://engineering.remind.com/
+* RetailMeNot https://medium.com/retailmenot-engineering/
+* Rightscale http://eng.rightscale.com/
+* Riot Games https://engineering.riotgames.com/
+* RisingStack https://blog.risingstack.com/
+* Robert Elder Software http://blog.robertelder.org/
+* RoseHosting https://www.rosehosting.com/blog/
+* Runtastic https://www.runtastic.com/blog/en/category/tech/
 
 #### S companies
 * [Salesforce](https://developer.salesforce.com/blogs/engineering/)

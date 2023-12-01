@@ -63,6 +63,7 @@
 * Binary Studio https://binary-studio.com/blog/
 * Bing https://blogs.bing.com/Engineering-Blog
 * BitTorrent http://engineering.bittorrent.com/
+* Buddy https://buddy.works/blog
 * BlaBlaCar http://blablatech.com/blog/
 * BlackRock http://rockthecode.io/
 * Blender https://code.blender.org/

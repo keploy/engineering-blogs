@@ -502,26 +502,27 @@
 * [Codrops](https://tympanus.net/codrops/)
 
 #### D individuals
-* [Daily JS](https://medium.com/dailyjs)
-* [Daily Tech Video](http://dailytechvideo.com/)
-* [Dan Luu](https://danluu.com/)
-* [Daniel Doubrovkine (dB.)](http://code.dblock.org/)
-* [Daniel Schmidt](https://medium.com/@dschmidt1992)
-* [Dave Atchley](http://www.datchley.name/)
-* [Dave Beazley](http://www.dabeaz.com/blog.html)
-* [Dave Cheney](https://dave.cheney.net/)
-* [David Walsh](https://davidwalsh.name/)
-* [Dean Hume](http://deanhume.com/)
-* [Deborah Digges](http://deborah-digges.github.io/)
-* [Dennis Felsing](https://hookrace.net/)
-* [Dennis Yurichev](https://yurichev.com/blog/)
-* [Dereuromark](http://www.dereuromark.de/)
-* [Discover Meteor](https://www.discovermeteor.com/blog)
-* [Domenico Luciani](https://domenicoluciani.com)
-* [Dot Dev (.dev)](https://dotdev.co)
-* [Dragan Djuric](http://dragan.rocks)
-* [Dragan Gaic](http://www.gajotres.net/)
-* [Drew DeVault](https://drewdevault.com/)
+* Daily JS https://medium.com/dailyjs
+* Daily Tech Video http://dailytechvideo.com/
+* Dan Luu https://danluu.com/
+* Daniel Doubrovkine (dB.) http://code.dblock.org/
+* Daniel Schmidt https://medium.com/@dschmidt1992
+* Dave Atchley http://www.datchley.name/
+* Dave Beazley http://www.dabeaz.com/blog.html
+* Dave Cheney https://dave.cheney.net/
+* David Walsh https://davidwalsh.name/
+* Dean Hume http://deanhume.com/
+* Deborah Digges http://deborah-digges.github.io/
+* Dennis Felsing https://hookrace.net/
+* Dennis Yurichev https://yurichev.com/blog/
+* Dereuromark http://www.dereuromark.de/
+* Discover Meteor https://www.discovermeteor.com/blog
+* Domenico Luciani https://domenicoluciani.com
+* Dot Dev (.dev) https://dotdev.co
+* Dragan Djuric http://dragan.rocks
+* Dragan Gaic http://www.gajotres.net/
+* Drew DeVault https://drewdevault.com/
+* Deya Elkhawaldeh https://swiftbydeya.com/
 
 #### E individuals
 * [Edan Kwan](http://blog.edankwan.com/)

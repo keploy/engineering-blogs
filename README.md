@@ -325,26 +325,26 @@
 * Runtastic https://www.runtastic.com/blog/en/category/tech/
 
 #### S companies
-* [Salesforce](https://developer.salesforce.com/blogs/engineering/)
-* [Schibsted Tech Polska](http://www.schibsted.pl/blog/)
-* [Scrapinghub](https://blog.scrapinghub.com/)
-* [Scrunch](https://tech.scrunch.com/blog/)
-* [Secret Escapes](http://tech.secretescapes.com/)
-* [Segment](https://segment.com/blog/categories/engineering/)
-* [Semantics3](https://engineering.semantics3.com)
-* [Semaphore CI Community](https://semaphoreci.com/community)
-* [Semaphore CI Engineering](http://semaphoreci.com/blog/tags/engineering.html)
-* [Sensible](http://blog.sensible.io/)
-* [Serverless](https://serverless.com/blog/)
-* [Settled](https://engineroom.settled.co.uk/)
-* [Sharethis](https://www.sharethis.com/category/engineering/)
-* [Shazam](https://blog.shazam.com/)
-* [Shopify](https://shopify.engineering/)
-* [ShowMax](https://tech.showmax.com)
-* [Shyp](https://medium.com/shyp-engineering)
-* [Sift Science](https://blog.siftscience.com/?category=Engineering)
-* [Simple](https://www.simple.com/engineering)
-* [SitePoint](https://sitepoint.com)
+* Salesforce https://engineering.salesforce.com/
+* Schibsted Tech Polska http://www.schibsted.pl/blog/
+* Scrapinghub https://blog.scrapinghub.com/
+* Scrunch https://tech.scrunch.com/blog/
+* Secret Escapes http://tech.secretescapes.com/
+* Segment https://segment.com/blog/categories/engineering/
+* Semantics3 https://engineering.semantics3.com
+* Semaphore CI Community https://semaphoreci.com/community
+* Semaphore CI Engineering http://semaphoreci.com/blog/tags/engineering.html
+* Sensible http://blog.sensible.io/
+* Serverless https://serverless.com/blog/
+* Settled https://engineroom.settled.co.uk/
+* Sharethis https://www.sharethis.com/category/engineering/
+* Shazam https://blog.shazam.com/
+* Shopify https://shopify.engineering/
+* ShowMax https://tech.showmax.com
+* Shyp https://medium.com/shyp-engineering
+* Sift Science https://blog.siftscience.com/?category=Engineering
+* Simple https://www.simple.com/engineering
+* SitePoint https://sitepoint.com
 * Sky Betting & Gaming http://engineering.skybettingandgaming.com/
 * Skyscanner http://codevoyagers.com/
 * Slack https://slack.engineering/

@@ -212,6 +212,7 @@
 * Intel https://software.intel.com/en-us/blogs/
 * Intent Media http://intentmedia.com/blog/
 * Intercom https://engineering.intercom.io/
+* INFOSOFT https://sdk.docutain.com/blog
 
 #### J companies
 * Jane Street https://blogs.janestreet.com/category/ocaml/

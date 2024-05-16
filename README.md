@@ -752,8 +752,9 @@
 * [Undocumented Matlab](http://undocumentedmatlab.com/)
 
 #### V individuals
-* [Vanilla Java](http://vanillajava.blogspot.com/)
-* [Vlad Mihalcea](https://vladmihalcea.com/)
+* Vanilla Java http://vanillajava.blogspot.com/
+* Vlad Mihalcea https://vladmihalcea.com/
+* Verbose Tethics https://blog.sparsh.dev/
 
 #### W individuals
 * [Wilfred Hughes](http://www.wilfred.me.uk/)

@@ -75,25 +75,24 @@
 * Builder.io https://www.builder.io/blog
 
 #### C companies
-* [Canva](https://engineering.canva.com)
-* [Capgemini](https://capgemini.github.io/)
-* [CenturyLink](https://www.ctl.io/developers/blog)
-* [Cerner](http://engineering.cerner.com/)
-* [Chaps](https://blog.chaps.io/)
-* [Chartbeat](http://engineering.chartbeat.com/)
-* [Chef](https://blog.chef.io)
-* [Clever](https://engineering.clever.com/)
-* [CloudBees](https://www.previous.cloudbees.com/blog)
-* [Cloudera](https://blog.cloudera.com/)
-* [Cloudflare](https://blog.cloudflare.com/)
-* [CockroachDB](https://www.cockroachlabs.com/blog/)
-* [Codelitt](https://www.codelitt.com/blog/)
-* [Codemancers](https://crypt.codemancers.com/)
-* [Codementor](https://www.codementor.io/tutorial)
-* [CodeName One](http://www.codenameone.com/blog.html)
-* [Codeship](https://blog.codeship.com/)
-* [Coinbase](https://engineering.coinbase.com/)
-* [Commercetools](https://techblog.commercetools.com/)
+* Canva https://engineering.canva.com
+* Capgemini https://capgemini.github.io/
+* CenturyLink https://www.ctl.io/developers/blog
+* Cerner http://engineering.cerner.com/
+* Chartbeat http://engineering.chartbeat.com/
+* Chef https://blog.chef.io
+* Clever https://engineering.clever.com/
+* CloudBees https://www.previous.cloudbees.com/blog
+* Cloudera https://blog.cloudera.com/
+* Cloudflare https://blog.cloudflare.com/
+* CockroachDB https://www.cockroachlabs.com/blog/
+* Codelitt https://www.codelitt.com/blog/
+* Codemancers https://crypt.codemancers.com/
+* Codementor https://www.codementor.io/tutorial
+* CodeName One http://www.codenameone.com/blog.html
+* Codeship https://blog.codeship.com/
+* Coinbase https://engineering.coinbase.com/
+* Commercetools https://techblog.commercetools.com/
 * Condé Nast https://technology.condenast.com/
 * Confluent https://www.confluent.io/blog
 * Convox https://convox.com/blog

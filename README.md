@@ -441,18 +441,19 @@
 * YLD! https://blog.yld.io
 
 #### Z companies
-* [Zalando](https://tech.zalando.com/blog/)
-* [Zapier](https://zapier.com/engineering/)
-* [ZeeMee](https://zeemee.engineering/)
-* [Zendesk](https://medium.com/zendesk-engineering)
-* [Zendesk(old)](https://developer.zendesk.com/blog)
-* [Zenefits](https://engineering.zenefits.com/posts/)
-* [Zillow](https://www.zillow.com/engineering/)
-* [Zomato](https://engineering.zomato.com/)
-* [Zoosk](https://about.zoosk.com/en/engineering-blog/)
-* [Zulily](https://engineering.zulily.com/)
-* [Zumba](http://tech.zumba.com/)
-* [Zynga](https://www.zynga.com/blogs/engineering)
+* Zalando https://tech.zalando.com/blog/
+* Zapier https://zapier.com/engineering/
+* ZeeMee https://zeemee.engineering/
+* Zendesk https://medium.com/zendesk-engineering
+* Zendesk(old) https://developer.zendesk.com/blog
+* Zenefits https://engineering.zenefits.com/posts/
+* Zerodha https://zerodha.tech/
+* Zillow https://www.zillow.com/engineering/
+* Zomato https://engineering.zomato.com/
+* Zoosk https://about.zoosk.com/en/engineering-blog/
+* Zulily https://engineering.zulily.com/
+* Zumba http://tech.zumba.com/
+* Zynga https://www.zynga.com/blogs/engineering
 
 ### Individuals/Group Contributors
 

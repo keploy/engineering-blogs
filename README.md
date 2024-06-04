@@ -292,6 +292,7 @@
 * Paytm https://paytm.com/blog/engineering/
 * Phonepe https://tech.phonepe.com/
 * PicCollage https://tech.pic-collage.com/
+* Picnic Technologies https://blog.picnic.nl/
 * Pinterest https://medium.com/@Pinterest_Engineering
 * Pivotal https://engineering.pivotal.io
 * Pluralsight https://www.pluralsight.com/guides

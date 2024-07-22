@@ -28,12 +28,15 @@
 * [99designs](https://99designs.com/tech-blog/)
 
 #### A companies
+* Adobe https://blog.developer.adobe.com/
 * AdRoll http://tech.adroll.com/blog/
 * Advanced Web Machinery https://advancedweb.hu/
+* Agoda https://medium.com/agoda-engineering
 * Airbnb https://medium.com/airbnb-engineering
 * Algolia https://blog.algolia.com/
 * Allegro.tech https://allegro.tech
 * Appnexus https://techblog.appnexus.com/
+* Argonaut https://www.argonaut.dev/blog
 * Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/
 * Asana https://blog.asana.com/category/eng/
@@ -46,56 +49,61 @@
 * Azavea https://www.azavea.com/blog/category/software-development/
 
 #### B companies
-* [Babbel](https://bytes.babbel.com/en/)
-* [Backtrace](https://backtrace.io/blog/)
-* [Badoo](https://techblog.badoo.com/)
-* [Baidu Research](http://research.baidu.com/Blog)
-* [Bandcamp](https://bandcamptech.wordpress.com/)
-* [Base Lab](https://lab.getbase.com/category/engineering/)
-* [Bazaarvoice](https://blog.developer.bazaarvoice.com/)
-* [BBC](https://medium.com/bbc-design-engineering/)
-* [Benchling](https://benchling.engineering/)
-* [BenefitFocus](https://www.benefitfocus.com/blogs/design-engineering)
-* [Bigcommerce](http://www.bigeng.io/)
-* [Binary Studio](https://binary-studio.com/blog/)
-* [BitTorrent](http://engineering.bittorrent.com/)
-* [BlaBlaCar](http://blablatech.com/blog/)
-* [BlackRock](http://rockthecode.io/)
-* [Blender](https://code.blender.org/)
-* [Blogfoster](http://engineering.blogfoster.com/)
-* [Booking.com](https://blog.booking.com/)
-* [Boxever](http://www.boxever.com/blog/)
-* [Brandwatch](http://engineering.brandwatch.com/)
+* Babbel https://bytes.babbel.com/en/
+* Backtrace https://backtrace.io/blog/
+* Badoo https://techblog.badoo.com/
+* Baidu Research http://research.baidu.com/Blog
+* Bandcamp https://bandcamptech.wordpress.com/
+* Base Lab https://lab.getbase.com/category/engineering/
+* Bazaarvoice https://blog.developer.bazaarvoice.com/
+* BBC https://medium.com/bbc-design-engineering/
+* Benchling https://benchling.engineering/
+* BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
+* Bharatpe https://labs.bharatpe.com/series/tech
+* Bigcommerce http://www.bigeng.io/
+* Binary Studio https://binary-studio.com/blog/
+* Bing https://blogs.bing.com/Engineering-Blog
+* BitTorrent http://engineering.bittorrent.com/
+* Buddy https://buddy.works/blog
+* BlaBlaCar http://blablatech.com/blog/
+* BlackRock http://rockthecode.io/
+* Blender https://code.blender.org/
+* Blinkit https://lambda.blinkit.com/
+* Blogfoster http://engineering.blogfoster.com/
+* Booking.com https://blog.booking.com/
+* Boxever http://www.boxever.com/blog/
+* Brandwatch http://engineering.brandwatch.com/
+* Builder.io https://www.builder.io/blog
 
 #### C companies
-* [Canva](https://engineering.canva.com)
-* [Capgemini](https://capgemini.github.io/)
-* [CenturyLink](https://www.ctl.io/developers/blog)
-* [Cerner](http://engineering.cerner.com/)
-* [Chaps](https://blog.chaps.io/)
-* [Chartbeat](http://engineering.chartbeat.com/)
-* [Chef](https://blog.chef.io)
-* [Clever](https://engineering.clever.com/)
-* [CloudBees](https://www.previous.cloudbees.com/blog)
-* [Cloudera](https://blog.cloudera.com/)
-* [Cloudflare](https://blog.cloudflare.com/)
-* [CockroachDB](https://www.cockroachlabs.com/blog/)
-* [Codelitt](https://www.codelitt.com/blog/)
-* [Codemancers](https://crypt.codemancers.com/)
-* [Codementor](https://www.codementor.io/tutorial)
-* [CodeName One](http://www.codenameone.com/blog.html)
-* [Codeship](https://blog.codeship.com/)
-* [Coinbase](https://engineering.coinbase.com/)
-* [Commercetools](https://techblog.commercetools.com/)
+* Canva https://engineering.canva.com
+* Capgemini https://capgemini.github.io/
+* CenturyLink https://www.ctl.io/developers/blog
+* Cerner http://engineering.cerner.com/
+* Chartbeat http://engineering.chartbeat.com/
+* Chef https://blog.chef.io
+* Clever https://engineering.clever.com/
+* CloudBees https://www.previous.cloudbees.com/blog
+* Cloudera https://blog.cloudera.com/
+* Cloudflare https://blog.cloudflare.com/
+* CockroachDB https://www.cockroachlabs.com/blog/
+* Codelitt https://www.codelitt.com/blog/
+* Codemancers https://crypt.codemancers.com/
+* Codementor https://www.codementor.io/tutorial
+* CodeName One http://www.codenameone.com/blog.html
+* Codeship https://blog.codeship.com/
+* Coinbase https://engineering.coinbase.com/
+* Commercetools https://techblog.commercetools.com/
 * Condé Nast https://technology.condenast.com/
-* [Confluent](https://www.confluent.io/blog)
-* [Convox](https://convox.com/blog)
-* [Coolblue](http://devblog.coolblue.nl/)
-* [Credit Karma](https://engineering.creditkarma.com/)
-* [Criteo](https://medium.com/criteo-labs)
-* [Crowdfire](https://crowdfire.engineering/)
-* [CSC - IT Center For Science - Cloud Team](https://cloud.blog.csc.fi/)
-* [Curalate](http://engineering.curalate.com/)
+* Confluent https://www.confluent.io/blog
+* Convox https://convox.com/blog
+* Coolblue http://devblog.coolblue.nl/
+* Cred https://engineering.cred.club/
+* Credit Karma https://engineering.creditkarma.com/
+* Criteo https://medium.com/criteo-labs
+* Crowdfire https://crowdfire.engineering/
+* CSC - IT Center For Science - Cloud Team https://cloud.blog.csc.fi/
+* Curalate http://engineering.curalate.com/
 
 #### D companies
 * Data Artisans https://data-artisans.com/blog/
@@ -106,66 +114,67 @@
 * DigitalOcean https://blog.digitalocean.com/tag/engineering/
 * Discord https://blog.discordapp.com/
 * Docker https://blog.docker.com/
-* Docplanner https://medium.com/docplanner-tech
-* DoorDash https://blog.doordash.com/tagged/engineering
+* DoorDash: https://doordash.engineering/blog/
 * Doximity https://engineering.doximity.com
 * Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
+* Dunzo https://blog.dunzo.com/
 
 #### E companies
-* [Ebay](https://www.ebayinc.com/stories/blogs/tech/)
-* [eFounders](https://medium.com/unexpected-token)
-* [Eharmony](http://www.eharmony.com/engineering/)
-* [Elastic](https://www.elastic.co/blog/category/engineering)
-* [Engine Yard](https://blog.engineyard.com/)
-* [Entelo](https://sourcecode.entelo.com/)
-* [Envato](https://webuild.envato.com/)
-* [Envoy](https://envoy.engineering/)
-* [Erlang Solutions](https://www.erlang-solutions.com/blog.html)
-* [Etsy](https://codeascraft.com/)
-* [Eventbrite](https://www.eventbrite.com/engineering/)
-* [Evernote](https://evernote.com/blog/)
-* [Evil Martians](https://evilmartians.com/chronicles/)
-* [Expedia](https://medium.com/expedia-group-tech)
+* Ebay https://tech.ebayinc.com/rss
+* eFounders https://medium.com/unexpected-token
+* Eharmony http://www.eharmony.com/engineering/
+* Elastic https://www.elastic.co/blog/category/engineering
+* Engine Yard https://blog.engineyard.com/
+* Entelo https://sourcecode.entelo.com/
+* Envato https://webuild.envato.com/
+* Envoy https://envoy.engineering/
+* Erlang Solutions https://www.erlang-solutions.com/blog.html
+* Etsy https://codeascraft.com/
+* Eventbrite https://www.eventbrite.com/engineering/
+* Evernote https://evernote.com/blog/
+* Evil Martians https://evilmartians.com/chronicles/
+* Expedia https://medium.com/expedia-group-tech
 
 #### F companies
-* [Facebook](https://code.facebook.com/posts/)
-* [Facebook AI Research](https://engineering.fb.com/category/ai-research/)
-* [Faraday](http://blog.faraday.io/)
-* [Feedzai](https://medium.com/feedzaitech)
-* [Fiftythree](http://making.fiftythree.com/)
-* [Findmypast](http://tech.findmypast.com/)
-* [Finn.no](http://tech.finn.no/)
-* [Firmafon](https://dev.firmafon.dk/blog/)
-* [Flickr](http://code.flickr.net/)
-* [Foursquare](https://engineering.foursquare.com/)
-* [Freeletics](https://freeletics.engineering/)
-* [Future Processing](https://www.future-processing.pl/technical-blog/)
-* [Fynd](http://gofynd.io/blog)
+* Facebook https://code.facebook.com/posts/
+* Facebook AI Research https://engineering.fb.com/category/ai-research/
+* Faraday http://blog.faraday.io/
+* Feedzai https://medium.com/feedzaitech
+* Fiftythree http://making.fiftythree.com/
+* Findmypast http://tech.findmypast.com/
+* Finn.no http://tech.finn.no/
+* Firmafon https://dev.firmafon.dk/blog/
+* Flickr http://code.flickr.net/
+* Flipkart https://blog.flipkart.tech/
+* Foursquare https://engineering.foursquare.com/
+* Freeletics https://freeletics.engineering/
+* Future Processing https://www.future-processing.pl/technical-blog/
+* Fynd http://gofynd.io/blog
 
 #### G companies
-* [Galois](https://galois.com/blog/)
-* [GameChanger](http://tech.gc.com/)
-* [Geoblink](https://tech.geoblink.com)
-* [Gilt](http://tech.gilt.com)
-* [GIPHY](https://engineering.giphy.com/)
-* [GitHub](https://githubengineering.com/)
-* [GitHub Old](https://github.com/blog/category/engineering)
-* [GoCardless](https://gocardless.com/blog/tagged/engineering/)
-* [GoDaddy](https://godaddy.github.io/engineering/)
-* [Google Online Security](https://security.googleblog.com/)
-* [Google Research](https://research.googleblog.com/)
-* [GoSquared](https://engineering.gosquared.com/)
-* [GO-JEK](https://blog.gojekengineering.com/)
-* [Grab](http://engineering.grab.com/)
-* [Grafana](https://grafana.com/blog/)
-* [Grammarly](https://tech.grammarly.com/blog/index.html)
-* [Graphcool](https://blog.graph.cool/)
-* [Grofers](https://lambda.grofers.com/)
-* [Grouper](http://blog.joingrouper.com/)
-* [Groupon](https://engineering.groupon.com/)
-* [Guardian](https://www.theguardian.com/info/developer-blog)
-* [Gusto](http://engineering.gusto.com/)
+* Galois https://galois.com/blog/
+* GameChanger http://tech.gc.com/
+* Geoblink https://tech.geoblink.com
+* Gilt http://tech.gilt.com
+* GIPHY https://engineering.giphy.com/
+* GitHub https://githubengineering.com/
+* GitHub Old https://github.com/blog/category/engineering
+* GoCardless https://gocardless.com/blog/tagged/engineering/
+* GoDaddy https://godaddy.github.io/engineering/
+* Google Online Security https://security.googleblog.com/
+* Google Research https://research.googleblog.com/
+* GoSquared https://engineering.gosquared.com/
+* GO-JEK https://blog.gojekengineering.com/
+* Grab http://engineering.grab.com/
+* Grafana https://grafana.com/blog/
+* Grammarly https://www.grammarly.com/blog/engineering/
+* Graphcool https://blog.graph.cool/
+* Grofers https://lambda.grofers.com/
+* Grouper http://blog.joingrouper.com/
+* Groupon https://engineering.groupon.com/
+* Guardian https://www.theguardian.com/info/developer-blog
+* Gusto http://engineering.gusto.com/
 
 #### H companies
 * HackerEarth http://engineering.hackerearth.com/
@@ -185,38 +194,45 @@
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
 * Hostinger https://www.hostinger.com/blog/engineering/
+* Hotstar https://blog.hotstar.com/
 * Housing.com https://medium.com/engineering-housing
 * HubSpot http://product.hubspot.com/blog/topic/engineering
-* Hevo Data https://hevodata.com/learn/
+* Hyperswitch https://hyperswitch.io/blog
 
 #### I companies
-* [IBM developerWorks](https://developer.ibm.com/dwblog/)
-* [IFTTT](http://engineering.ifttt.com/)
-* [IMVU](https://engineering.imvu.com/)
-* [Imaginea](https://blog.imaginea.com/)
-* [Imgur](https://blog.imgur.com/category/eng/)
-* [Indeed](http://engineering.indeedblog.com/blog/)
-* [Instacart](https://tech.instacart.com/)
-* [Instagram](https://engineering.instagram.com/)
-* [Intel](https://software.intel.com/en-us/blogs/)
-* [Intent Media](http://intentmedia.com/blog/)
-* [Intercom](https://engineering.intercom.io/)
+* IBM developerWorks https://developer.ibm.com/dwblog/
+* IFTTT http://engineering.ifttt.com/
+* IMVU https://engineering.imvu.com/
+* Imaginea https://blog.imaginea.com/
+* Imgur https://blog.imgur.com/category/eng/
+* Indeed http://engineering.indeedblog.com/blog/
+* Infosys https://blogs.infosys.com/
+* Instacart https://tech.instacart.com/
+* Instagram https://engineering.fb.com/tag/instagram/
+* Intel https://software.intel.com/en-us/blogs/
+* Intent Media http://intentmedia.com/blog/
+* Intercom https://engineering.intercom.io/
+* INFOSOFT https://sdk.docutain.com/blog
 
 #### J companies
-* [Jane Street](https://blogs.janestreet.com/category/ocaml/)
-* [Jet Technology](https://tech.jet.com/)
-* [Jobandtalent](https://jobandtalent.engineering/)
-* [JobTeaser](https://medium.com/jobteaser-dev-team/)
-* [Jolly Good Code](https://jollygoodcode.github.io/)
-* [Just Eat](https://tech.just-eat.com/)
+* Jane Street https://blogs.janestreet.com/category/ocaml/
+* Jet Technology https://tech.jet.com/
+* Jio https://medium.com/engineering-jio-com
+* Jobandtalent https://jobandtalent.engineering/
+* JobTeaser https://medium.com/jobteaser-dev-team/
+* Jolly Good Code https://jollygoodcode.github.io/
+* Just Eat https://tech.just-eat.com/
 
 #### K companies
-* [Khan Academy](http://engineering.khanacademy.org)
-* [Kickstarter](https://www.kickstarter.com/backing-and-hacking)
-* [King](https://techblog.king.com/)
-* [Kinvolk](https://kinvolk.io/blog/)
-* [Kogan.com](https://devblog.kogan.com/)
-* [Kolosek](https://kolosek.com/blog/)
+* Keploy https://keploy.io/blog/technology
+* Khan Academy http://engineering.khanacademy.org
+* Khalti Digital wallet https://khalti.engineering
+* Kickstarter https://www.kickstarter.com/backing-and-hacking
+* King https://techblog.king.com/
+* Kinvolk https://kinvolk.io/blog/
+* Klaviyo https://klaviyo.tech/
+* Kogan.com https://devblog.kogan.com/
+* Kolosek https://kolosek.com/blog/
 
 #### L companies
 * [Latacora](https://latacora.singles/)
@@ -236,8 +252,10 @@
 * MapTiler https://www.maptiler.com/blog/
 * Medallia http://engineering.medallia.com/blog/
 * Medium https://medium.com/medium-eng
-* SingleStore https://www.singlestore.com/blog/category/engineering/
+* Meltwater https://underthehood.meltwater.com/
+* MemSQL http://blog.memsql.com/content/engineering/
 * Mesosphere https://mesosphere.com/blog/
+* MeteorOps https://meteorops.com/blog/
 * Microsoft Python Engineering https://blogs.msdn.microsoft.com/pythonengineering/
 * Mixmax https://engineering.mixmax.com/
 * Mixpanel https://code.mixpanel.com/
@@ -247,126 +265,138 @@
 * Mozilla Release Engineering https://planet.mozilla.org/releng/
 
 #### N companies
-* [Netflix](https://medium.com/netflix-techblog)
-* [New York Times](https://open.blogs.nytimes.com)
-* [Nextdoor](https://engblog.nextdoor.com/)
-* [Nordic APIs](https://nordicapis.com/blog/)
-* [Novoda](https://www.novoda.com/blog/)
-* [NPR Apps](http://blog.apps.npr.org/)
-* [Nvidia](https://blogs.nvidia.com/)
+* Netflix https://medium.com/netflix-techblog
+* New York Times https://open.blogs.nytimes.com
+* Nextdoor https://engblog.nextdoor.com/
+* Nike https://medium.com/nikeengineering
+* Nobroker https://medium.com/nobroker-engineering
+* Nordic APIs https://nordicapis.com/blog/
+* Notion https://www.notion.so/blog/topic/tech
+* Novoda https://www.novoda.com/blog/
+* NPR Apps http://blog.apps.npr.org/
+* Nvidia https://blogs.nvidia.com/
 
 #### O companies
-* [OCTO Technology](https://blog.octo.com/en/)
-* [Okta](https://developer.okta.com/blog/)
-* [OLX](https://tech.olx.com/)
-* [OmniTI](https://omniti.com/seeds/stop-collaborate-and-listen-notify)
-* [OpenDNS](https://engineering.opendns.com/)
-* [Oursky](https://code.oursky.com/)
-* [Opensooq](http://engineering.opensooq.com/)
+* OCTO Technology https://blog.octo.com/en/
+* Okta https://developer.okta.com/blog/
+* OLX https://tech.olx.com/
+* OmniTI https://omniti.com/seeds/stop-collaborate-and-listen-notify
+* OpenDNS https://engineering.opendns.com/
+* OpenAI https://openai.com/blog
+* Oursky https://code.oursky.com/
+* Opensooq http://engineering.opensooq.com/
 
 #### P companies
-* [Panorama Education](http://engineering.panoramaed.com/)
-* [Paperless Post](https://www.paperlesspost.com/blog/teams/tech/)
-* [Paypal](https://www.paypal-engineering.com/)
-* [PicCollage](https://tech.pic-collage.com/)
-* [Pinterest](https://medium.com/@Pinterest_Engineering)
-* [Pivotal](https://engineering.pivotal.io)
-* [Pluralsight](https://www.pluralsight.com/guides)
-* [Postman](https://medium.com/better-practices)
-* [Postmark](https://postmarkapp.com/blog)
-* [Postmates](https://blog.postmates.com/tagged/engineering)
-* [Prezi](https://medium.com/prezi-engineering)
-* [Prolific Interactive](http://blog.prolificinteractive.com/category/development/)
+* Panorama Education http://engineering.panoramaed.com/
+* Paperless Post https://www.paperlesspost.com/blog/teams/tech/
+* Paypal https://www.paypal-engineering.com/
+* Paytm https://paytm.com/blog/engineering/
+* Phonepe https://tech.phonepe.com/
+* PicCollage https://tech.pic-collage.com/
+* Picnic Technologies https://blog.picnic.nl/
+* Pinterest https://medium.com/@Pinterest_Engineering
+* Pivotal https://engineering.pivotal.io
+* Pluralsight https://www.pluralsight.com/guides
+* Postman https://medium.com/better-practices
+* Postmark https://postmarkapp.com/blog
+* Postmates https://blog.postmates.com/tagged/engineering
+* Prezi https://medium.com/prezi-engineering
+* Prolific Interactive http://blog.prolificinteractive.com/category/development/
 * PubNub: https://www.pubnub.com/blog/
 * [PullReview](http://blog.8thcolor.com/)
 
 #### Q companies
-* [Quora](https://engineering.quora.com/)
+* Qualcomm https://developer.qualcomm.com/blogs
+* Quora https://engineering.quora.com/
 
 #### R companies
-* [Raizlabs](https://www.raizlabs.com/dev/)
-* [RapidAPI](http://blog.rapidapi.com/)
-* [REA Group](https://www.rea-group.com/category/tech/)
-* [Realm.io](https://realm.io/news/)
-* [Redbubble](http://artplustech.com/)
-* [Redino](http://redino.net/blog/)
-* [Reddit](https://www.reddit.com/r/RedditEng/)
-* [Red Hat](https://developers.redhat.com/blog/)
-* [Remind](http://engineering.remind.com/)
-* [RetailMeNot](https://medium.com/retailmenot-engineering/)
-* [Rightscale](http://eng.rightscale.com/)
-* [Riot Games](https://engineering.riotgames.com/)
-* [RisingStack](https://blog.risingstack.com/)
-* [Robert Elder Software](http://blog.robertelder.org/)
-* [RoseHosting](https://www.rosehosting.com/blog/)
-* [Runtastic](https://www.runtastic.com/blog/en/category/tech/)
+* Raizlabs https://www.raizlabs.com/dev/
+* RapidAPI http://blog.rapidapi.com/
+* REA Group https://www.rea-group.com/category/tech/
+* Realm.io https://realm.io/news/
+* Redbubble http://artplustech.com/
+* Redino http://redino.net/blog/
+* Reddit https://www.reddit.com/r/RedditEng/
+* Red Hat https://developers.redhat.com/blog/
+* Remedy Entertainment https://www.remedygames.com/northlight
+* Remind http://engineering.remind.com/
+* RetailMeNot https://medium.com/retailmenot-engineering/
+* Rightscale http://eng.rightscale.com/
+* Riot Games https://engineering.riotgames.com/
+* RisingStack https://blog.risingstack.com/
+* Robert Elder Software http://blog.robertelder.org/
+* RoseHosting https://www.rosehosting.com/blog/
+* Runtastic https://www.runtastic.com/blog/en/category/tech/
 
 #### S companies
-* [Salesforce](https://developer.salesforce.com/blogs/engineering/)
-* [Schibsted Tech Polska](http://www.schibsted.pl/blog/)
-* [Scrapinghub](https://blog.scrapinghub.com/)
-* [Scrunch](https://tech.scrunch.com/blog/)
-* [Secret Escapes](http://tech.secretescapes.com/)
-* [Segment](https://segment.com/blog/categories/engineering/)
-* [Semantics3](https://engineering.semantics3.com)
-* [Semaphore CI Community](https://semaphoreci.com/community)
-* [Semaphore CI Engineering](http://semaphoreci.com/blog/tags/engineering.html)
-* [Sensible](http://blog.sensible.io/)
-* [Serverless](https://serverless.com/blog/)
-* [Settled](https://engineroom.settled.co.uk/)
-* [Sharethis](https://www.sharethis.com/category/engineering/)
-* [Shazam](https://blog.shazam.com/)
-* [Shopify](https://shopify.engineering/)
-* [ShowMax](https://tech.showmax.com)
-* [Shyp](https://medium.com/shyp-engineering)
-* [Sift Science](https://blog.siftscience.com/?category=Engineering)
-* [Simple](https://www.simple.com/engineering)
-* [SitePoint](https://sitepoint.com)
+* Salesforce https://engineering.salesforce.com/
+* Schibsted Tech Polska http://www.schibsted.pl/blog/
+* Scrapinghub https://blog.scrapinghub.com/
+* Scrunch https://tech.scrunch.com/blog/
+* Secret Escapes http://tech.secretescapes.com/
+* Segment https://segment.com/blog/categories/engineering/
+* Semantics3 https://engineering.semantics3.com
+* Semaphore CI Community https://semaphoreci.com/community
+* Semaphore CI Engineering http://semaphoreci.com/blog/tags/engineering.html
+* Sensible http://blog.sensible.io/
+* Serverless https://serverless.com/blog/
+* Settled https://engineroom.settled.co.uk/
+* Sharethis https://www.sharethis.com/category/engineering/
+* Shazam https://blog.shazam.com/
+* Shopify https://shopify.engineering/
+* ShowMax https://tech.showmax.com
+* Shyp https://medium.com/shyp-engineering
+* Sift Science https://blog.siftscience.com/?category=Engineering
+* Simple https://www.simple.com/engineering
+* SitePoint https://sitepoint.com
 * Sky Betting & Gaming http://engineering.skybettingandgaming.com/
-* [Skyscanner](http://codevoyagers.com/)
-* [Slack](https://slack.engineering/)
-* [SlideShare](https://engineering.linkedin.com/blog/topic/slideshare)
-* [Small Improvements](https://tech.small-improvements.com/)
-* [Snyk](https://snyk.io/blog)
-* [Soshace](https://blog.soshace.com/en/)
-* [Soundcloud](https://developers.soundcloud.com/blog/)
-* [SourceClear](https://blog.sourceclear.com/)
-* [Speedledger](http://engineering.speedledger.com/)
-* [Spotify](https://labs.spotify.com/)
-* [Sqreen](https://blog.sqreen.io/)
-* [Square](https://corner.squareup.com/)
-* [Squarespace](https://engineering.squarespace.com/)
-* [Stack Overflow](https://stackoverflow.blog/engineering/)
-* [Stackshare](https://stackshare.io/feed)
-* [Stitch Fix](http://multithreaded.stitchfix.com/blog/)
-* [Strava](https://medium.com/strava-engineering/)
-* [Stride](https://blog.stridenyc.com/)
-* [Stripe](https://stripe.com/blog)
-* [SurveyMonkey](https://engineering.surveymonkey.com/)
-* [Swiggy](https://bytes.swiggy.com/)
+* Skyscanner http://codevoyagers.com/
+* Slack https://slack.engineering/
+* SlideShare https://engineering.linkedin.com/blog/topic/slideshare
+* Small Improvements https://tech.small-improvements.com/
+* Snapchat https://eng.snap.com/blog
+* Soshace https://blog.soshace.com/en/
+* Soundcloud https://developers.soundcloud.com/blog/
+* Spacelift https://spacelift.io/blog
+* SourceClear https://blog.sourceclear.com/
+* Speedledger http://engineering.speedledger.com/
+* Spotify https://engineering.atspotify.com
+* Sqreen https://blog.sqreen.io/
+* Square https://corner.squareup.com/
+* Squarespace https://engineering.squarespace.com/
+* Stack Overflow https://stackoverflow.blog/engineering/
+* Stackshare https://stackshare.io/feed
+* StarRocks https://medium.com/@starrocks
+* Stitch Fix http://multithreaded.stitchfix.com/blog/
+* Strava https://medium.com/strava-engineering/
+* Stripe https://stripe.com/blog
+* SurveyMonkey https://engineering.surveymonkey.com/
+* Swiggy https://bytes.swiggy.com/
 
 #### T companies
-* [Takipi](http://blog.takipi.com/)
-* [Target](https://target.github.io/)
-* [TaskRabbit](http://tech.taskrabbit.com/)
-* [Teamwork](https://engineroom.teamwork.com/)
-* [Teespring](http://teespring.engineering/)
-* [theScore](http://techblog.thescore.com/)
-* [Thoughtbot](https://robots.thoughtbot.com/)
-* [ThoughtWorks](https://www.thoughtworks.com/insights)
-* [Thumbtack](https://www.thumbtack.com/engineering/)
-* [Timescale](https://blog.timescale.com/)
-* [Tinder](https://tech.gotinder.com/)
-* [Toptal](https://www.toptal.com/blog/)
-* [TrackMaven](http://engineroom.trackmaven.com/)
-* [Transferwise](http://tech.transferwise.com/)
-* [TripAdvisor](http://engineering.tripadvisor.com/)
-* [Trivago](http://tech.trivago.com/)
-* [TrueCar](https://www.drivenbycode.com/)
-* [Tumblr](https://engineering.tumblr.com/)
-* [Twilio](https://www.twilio.com/blog/)
-* [Twitter](https://blog.twitter.com/engineering)
-* [Twitch](https://blog.twitch.tv/tagged/engineering)
+* Takipi http://blog.takipi.com/
+* Target https://target.github.io/
+* Taro https://www.jointaro.com/blog/
+* TaskRabbit http://tech.taskrabbit.com/
+* Teamwork https://engineroom.teamwork.com/
+* Teespring http://teespring.engineering/
+* theScore http://techblog.thescore.com/
+* Thoughtbot https://robots.thoughtbot.com/
+* ThoughtWorks https://www.thoughtworks.com/insights
+* Thumbtack https://www.thumbtack.com/engineering/
+* Timescale https://blog.timescale.com/
+* Tinder https://tech.gotinder.com/
+* TomTom https://engineering.tomtom.com/
+* Toptal https://www.toptal.com/blog/
+* TrackMaven http://engineroom.trackmaven.com/
+* Transferwise http://tech.transferwise.com/
+* TripAdvisor http://engineering.tripadvisor.com/
+* Trivago http://tech.trivago.com/
+* TrueCar https://www.drivenbycode.com/
+* Tumblr https://engineering.tumblr.com/
+* Twilio https://www.twilio.com/blog/
+* Twitter https://blog.twitter.com/engineering
+* Twitch https://blog.twitch.tv/tagged/engineering
 
 #### U companies
 * [Uber](http://eng.uber.com/)
@@ -386,19 +416,22 @@
 * [VTS](https://buildingvts.com/)
 
 #### W companies
-* [WalmartLabs](https://medium.com/walmartlabs/)
-* [Wattpad](http://engineering.wattpad.com/)
-* [Wayfair](http://engineering.wayfair.com/)
-* [Wealthfront](http://eng.wealthfront.com/)
-* [We Are Wizards](https://blog.wearewizards.io/)
-* [WebEngage](http://engineering.webengage.com/)
-* [Wemake.services](https://medium.com/wemake-services)
-* [WePay](https://wecode.wepay.com/)
-* [Wimdu](http://tech.wimdu.com/)
-* [Wingify](http://engineering.wingify.com/)
-* [Wombat Security Technologies](http://development.wombatsecurity.com/)
-* [Wonga Technology](http://tech.wonga.com/)
-* [WyeWorks](https://wyeworks.com/blog/)
+* WalmartLabs https://medium.com/walmartlabs/
+* Wattpad http://engineering.wattpad.com/
+* Wayfair http://engineering.wayfair.com/
+* Wealthfront http://eng.wealthfront.com/
+* We Are Wizards https://blog.wearewizards.io/
+* WebEngage http://engineering.webengage.com/
+* Wemake.services https://medium.com/wemake-services
+* WePay https://wecode.wepay.com/
+* Whatnot https://medium.com/whatnot-engineering
+* Wimdu http://tech.wimdu.com/
+* Wingify http://engineering.wingify.com/
+* Wipro https://www.wipro.com/blogs/
+* Wombat Security Technologies http://development.wombatsecurity.com/
+* Wonga Technology http://tech.wonga.com/
+* Wonolo https://engineeringblog.wonolo.com/
+* WyeWorks https://wyeworks.com/blog/
 
 #### X companies
 * [XING](https://tech.xing.com/)
@@ -410,18 +443,19 @@
 * YLD! https://blog.yld.io
 
 #### Z companies
-* [Zalando](https://tech.zalando.com/blog/)
-* [Zapier](https://zapier.com/engineering/)
-* [ZeeMee](https://zeemee.engineering/)
-* [Zendesk](https://medium.com/zendesk-engineering)
-* [Zendesk(old)](https://developer.zendesk.com/blog)
-* [Zenefits](https://engineering.zenefits.com/posts/)
-* [Zillow](https://www.zillow.com/engineering/)
-* [Zomato](https://engineering.zomato.com/)
-* [Zoosk](https://about.zoosk.com/en/engineering-blog/)
-* [Zulily](https://engineering.zulily.com/)
-* [Zumba](http://tech.zumba.com/)
-* [Zynga](https://www.zynga.com/blogs/engineering)
+* Zalando https://tech.zalando.com/blog/
+* Zapier https://zapier.com/engineering/
+* ZeeMee https://zeemee.engineering/
+* Zendesk https://medium.com/zendesk-engineering
+* Zendesk(old) https://developer.zendesk.com/blog
+* Zenefits https://engineering.zenefits.com/posts/
+* Zerodha https://zerodha.tech/
+* Zillow https://www.zillow.com/engineering/
+* Zomato https://engineering.zomato.com/
+* Zoosk https://about.zoosk.com/en/engineering-blog/
+* Zulily https://engineering.zulily.com/
+* Zumba http://tech.zumba.com/
+* Zynga https://www.zynga.com/blogs/engineering
 
 ### Individuals/Group Contributors
 
@@ -429,22 +463,24 @@
 * [0xADADA](https://0xadada.pub/)
 
 #### A individuals
-* [Aaron Patterson](http://tenderlovemaking.com/)
-* [Abu Ashraf Masnun](http://masnun.com/)
-* [Addy Osmani](https://addyosmani.com/blog/)
-* [Alan Storm](http://alanstorm.com/)
-* [Alex Russell](https://infrequently.org/)
-* [Amit Merchant](https://www.amitmerchant.com/)
-* [Anders Aarvik](http://aarvik.dk/)
-* [Andreas Schuster](https://computer.forensikblog.de/en/)
-* [Andrew Bancroft](http://www.andrewcbancroft.com/)
-* [Andrew Ray](https://blog.andrewray.me/)
-* [Andrey Akinshin](http://aakinshin.net/blog/)
-* [Antirez](http://antirez.com/latest/0)
-* [Ariejan de Vroom](https://ariejan.net/)
-* [Ariya Hidayat](https://ariya.io/)
-* [Armin Ronacher](http://lucumr.pocoo.org/)
-* [Axel Rauschmayer](http://www.2ality.com/)
+* Aaron Patterson http://tenderlovemaking.com/
+* Ajit Fawade https://blog.ajitfawade.com/
+* Abu Ashraf Masnun http://masnun.com/
+* Addy Osmani https://addyosmani.com/blog/
+* Alan Storm http://alanstorm.com/
+* Alex Russell https://infrequently.org/
+* Ali Tavallaie https://blog.techbend.io/
+* Amit Merchant https://www.amitmerchant.com/
+* Anders Aarvik http://aarvik.dk/
+* Andreas Schuster https://computer.forensikblog.de/en/
+* Andrew Bancroft http://www.andrewcbancroft.com/
+* Andrew Ray https://blog.andrewray.me/
+* Andrey Akinshin http://aakinshin.net/blog/
+* Antirez http://antirez.com/latest/0
+* Ariejan de Vroom https://ariejan.net/
+* Ariya Hidayat https://ariya.io/
+* Armin Ronacher http://lucumr.pocoo.org/
+* Axel Rauschmayer http://www.2ality.com/
 
 #### B individuals
 * [Bad Concurrency](http://bad-concurrency.blogspot.com/)
@@ -473,26 +509,27 @@
 * [Codrops](https://tympanus.net/codrops/)
 
 #### D individuals
-* [Daily JS](https://medium.com/dailyjs)
-* [Daily Tech Video](http://dailytechvideo.com/)
-* [Dan Luu](https://danluu.com/)
-* [Daniel Doubrovkine (dB.)](http://code.dblock.org/)
-* [Daniel Schmidt](https://medium.com/@dschmidt1992)
-* [Dave Atchley](http://www.datchley.name/)
-* [Dave Beazley](http://www.dabeaz.com/blog.html)
-* [Dave Cheney](https://dave.cheney.net/)
-* [David Walsh](https://davidwalsh.name/)
-* [Dean Hume](http://deanhume.com/)
-* [Deborah Digges](http://deborah-digges.github.io/)
-* [Dennis Felsing](https://hookrace.net/)
-* [Dennis Yurichev](https://yurichev.com/blog/)
-* [Dereuromark](http://www.dereuromark.de/)
-* [Discover Meteor](https://www.discovermeteor.com/blog)
-* [Domenico Luciani](https://domenicoluciani.com)
-* [Dot Dev (.dev)](https://dotdev.co)
-* [Dragan Djuric](http://dragan.rocks)
-* [Dragan Gaic](http://www.gajotres.net/)
-* [Drew DeVault](https://drewdevault.com/)
+* Daily JS https://medium.com/dailyjs
+* Daily Tech Video http://dailytechvideo.com/
+* Dan Luu https://danluu.com/
+* Daniel Doubrovkine (dB.) http://code.dblock.org/
+* Daniel Schmidt https://medium.com/@dschmidt1992
+* Dave Atchley http://www.datchley.name/
+* Dave Beazley http://www.dabeaz.com/blog.html
+* Dave Cheney https://dave.cheney.net/
+* David Walsh https://davidwalsh.name/
+* Dean Hume http://deanhume.com/
+* Deborah Digges http://deborah-digges.github.io/
+* Dennis Felsing https://hookrace.net/
+* Dennis Yurichev https://yurichev.com/blog/
+* Dereuromark http://www.dereuromark.de/
+* Discover Meteor https://www.discovermeteor.com/blog
+* Domenico Luciani https://domenicoluciani.com
+* Dot Dev (.dev) https://dotdev.co
+* Dragan Djuric http://dragan.rocks
+* Dragan Gaic http://www.gajotres.net/
+* Drew DeVault https://drewdevault.com/
+* Deya Elkhawaldeh https://swiftbydeya.com/
 
 #### E individuals
 * [Edan Kwan](http://blog.edankwan.com/)
@@ -525,12 +562,13 @@
 * [Guilherme Rodrigues](https://firstdoit.com/)
 
 #### H individuals
-* [Hayden James](https://haydenjames.io/)
-* [Henrik Lau Eriksson](https://conductofcode.io/)
-* [Henrik Warne](https://henrikwarne.com/)
-* [High Scalability](http://highscalability.com/)
-* [Huon Wilson](http://huonw.github.io/)
-* [Hypriot](http://blog.hypriot.com/)
+* Hayden James https://haydenjames.io/
+* Henrik Lau Eriksson https://conductofcode.io/
+* Henrik Warne https://henrikwarne.com/
+* High Scalability http://highscalability.com/
+* Hillel Wayne https://www.hillelwayne.com/post/
+* Huon Wilson http://huonw.github.io/
+* Hypriot http://blog.hypriot.com/
 
 #### I individuals
 * [Ian Hummel](https://themodernlife.github.io/)
@@ -543,40 +581,41 @@
 * [Ivan Ursul](https://ivanursul.com/)
 
 #### J individuals
-* [Jacopo Tarantino](https://jack.ofspades.com/)
-* [Jake Trent](https://jaketrent.com)
-* [Jake Wharton](http://jakewharton.com/blog)
-* [Jake Yesbeck](http://jakeyesbeck.com/)
-* [James Hague](http://prog21.dadgum.com/)
-* [James Long](http://jlongster.com/archive)
-* [Jamis Buck](http://weblog.jamisbuck.org/)
-* [Jan Lelis](https://idiosyncratic-ruby.com/)
-* [Jay Fields](http://blog.jayfields.com)
-* [Jeff Atwood](https://blog.codinghorror.com/)
-* [Jeff Preshing](http://preshing.com/)
-* [Jeremy Kun](https://jeremykun.com/)
-* [Jerry Gamblin](https://jerrygamblin.com/)
-* [Jesal Gadhia](https://jes.al/)
-* [Jessie Frazelle](https://blog.jessfraz.com/)
-* [Jesus Castello](http://www.blackbytes.info/)
-* [Joe Armstrong](https://joearms.github.io/)
-* [Joe Nelson](https://begriffs.com/)
-* [Joel Spolsky](https://www.joelonsoftware.com/)
-* [Johannes Brodwall](http://johannesbrodwall.com/)
-* [John Resig](https://johnresig.com/category/blog/)
-* [John Wittenauer](http://www.johnwittenauer.net/)
-* [Jon Kensy](http://www.jonkensy.com/)
-* [Jon Skeet](https://codeblog.jonskeet.uk/)
-* [Jonas Plum](https://blog.cugu.eu/)
-* [Jonathan Dekhtiar](http://www.born2data.com/)
-* [Jonathan Snook](https://snook.ca/)
-* [Josh Haberman](http://blog.reverberate.org/)
-* [Josh Sherman](https://joshtronic.com/)
-* [Juan Treminio](https://jtreminio.com)
-* [Julia Evans](https://jvns.ca/)
-* [Junior Grossi](https://blog.jgrossi.com/)
-* [Justin Weiss](https://www.justinweiss.com/articles/archives/)
-* [Juri Strumpflohner](https://juristr.com/blog/)
+* Jacopo Tarantino https://jack.ofspades.com/
+* Jake Trent https://jaketrent.com
+* Jake Wharton http://jakewharton.com/blog
+* Jake Yesbeck http://jakeyesbeck.com/
+* James Hague http://prog21.dadgum.com/
+* James Long http://jlongster.com/archive
+* Jamis Buck http://weblog.jamisbuck.org/
+* Jan Lelis https://idiosyncratic-ruby.com/
+* Jay Fields http://blog.jayfields.com
+* Jeff Atwood https://blog.codinghorror.com/
+* Jeff Preshing http://preshing.com/
+* Jeremy Kun https://jeremykun.com/
+* Jerry Gamblin https://jerrygamblin.com/
+* Jesal Gadhia https://jes.al/
+* Jessie Frazelle https://blog.jessfraz.com/
+* Jesus Castello http://www.blackbytes.info/
+* Joe Armstrong https://joearms.github.io/
+* Joe Nelson https://begriffs.com/
+* Joel Spolsky https://www.joelonsoftware.com/
+* Joep Weijers https://joepweijers.nl/?technical-notes
+* Johannes Brodwall http://johannesbrodwall.com/
+* John Resig https://johnresig.com/category/blog/
+* John Wittenauer http://www.johnwittenauer.net/
+* Jon Kensy http://www.jonkensy.com/
+* Jon Skeet https://codeblog.jonskeet.uk/
+* Jonas Plum https://blog.cugu.eu/
+* Jonathan Dekhtiar http://www.born2data.com/
+* Jonathan Snook https://snook.ca/
+* Josh Haberman http://blog.reverberate.org/
+* Josh Sherman https://joshtronic.com/
+* Juan Treminio https://jtreminio.com
+* Julia Evans https://jvns.ca/
+* Junior Grossi https://blog.jgrossi.com/
+* Justin Weiss https://www.justinweiss.com/articles/archives/
+* Juri Strumpflohner https://juristr.com/blog/
 
 #### K individuals
 * [K. Harrison](https://useyourloaf.com/)
@@ -586,14 +625,15 @@
 * [Kyle Kingsbury](https://aphyr.com/)
 
 #### L individuals
-* [Lambda the Ultimate](http://lambda-the-ultimate.org/)
-* [Larry Land](https://lg.io/)
-* [Lazarus Lazaridis](https://iridakos.com)
-* [Lea Verou](http://lea.verou.me/)
-* [Lerner Consulting Blog](http://blog.lerner.co.il/)
-* [Life Plus Linux](http://lifepluslinux.blogspot.in/)
-* [LiveOverflow](https://liveoverflow.com/blog/index.html)
-* [Luciano Mammino](https://loige.co/)
+* Lambda the Ultimate http://lambda-the-ultimate.org/
+* Larry Land https://lg.io/
+* Lazarus Lazaridis https://iridakos.com
+* Lea Verou http://lea.verou.me/
+* Lerner Consulting Blog http://blog.lerner.co.il/
+* Life Plus Linux http://lifepluslinux.blogspot.in/
+* LiveOverflow https://liveoverflow.com/blog/index.html
+* Luca Guidi https://lucaguidi.com/
+* Luciano Mammino https://loige.co/
 
 #### M individuals
 * [Manu Sporny](http://manu.sporny.org/)
@@ -622,14 +662,15 @@
 * [Mykhailo Kozik](http://mishadoff.com/)
 
 #### N individuals
-* [Natasha Murashev](https://natashatherobot.com)
-* [Nelson Elhage](https://blog.nelhage.com/)
-* [Nic Raboy](https://www.thepolyglotdeveloper.com/blog/)
-* [Nick Craver](https://nickcraver.com/blog/)
-* [Nick Desaulniers](https://nickdesaulniers.github.io/)
-* [Nick Galbreath](http://www.client9.com/)
-* [Nicolas Liochon](http://blog.thislongrun.com/)
-* [Nicolai Parlog (CodeFX)](http://codefx.org)
+* Natasha Murashev https://natashatherobot.com
+* Nayuki https://www.nayuki.io/
+* Nelson Elhage https://blog.nelhage.com/
+* Nic Raboy https://www.thepolyglotdeveloper.com/blog/
+* Nick Craver https://nickcraver.com/blog/
+* Nick Desaulniers https://nickdesaulniers.github.io/
+* Nick Galbreath http://www.client9.com/
+* Nicolas Liochon http://blog.thislongrun.com/
+* Nicolai Parlog (CodeFX) http://codefx.org
 * Nikola Brežnjak http://www.nikola-breznjak.com/blog/
 * [Nikolay Nemshilov](http://nikolay.rocks/)
 * [NSHipster](http://nshipster.com/)
@@ -647,44 +688,47 @@
 * [Paul Irish](https://www.paulirish.com/)
 * [Paul Lewis](https://aerotwist.com/blog/)
 * Paweł Chudzik https://blog.pchudzik.com/
-* [Peter Norvig](http://norvig.com/)
-* [Peter Steinberger](http://petersteinberger.com/)
-* [Peteris Krumins](http://www.catonmat.net/blog/)
-* [Petr Mitrichev](http://petr-mitrichev.blogspot.com/)
-* [Philip Walton](https://philipwalton.com/)
-* [Philipp Oppermann](https://os.phil-opp.com/)
-* [Pony Foo](https://ponyfoo.com/)
-* [Piotr Pasich](http://piotrpasich.com/)
-* [Piotr Wittchen](http://blog.wittchen.biz.pl/)
+* Peter Norvig http://norvig.com/
+* Peter P. Lupo http://blog.pplupo.com/
+* Peter Steinberger http://petersteinberger.com/
+* Peteris Krumins http://www.catonmat.net/blog/
+* Petr Mitrichev http://petr-mitrichev.blogspot.com/
+* Philip Walton https://philipwalton.com/
+* Philipp Oppermann https://os.phil-opp.com/
+* Pony Foo https://ponyfoo.com/
+* Piotr Pasich http://piotrpasich.com/
+* Piotr Wittchen http://blog.wittchen.biz.pl/
 
 #### R individuals
 * [Rachel Kroll](https://rachelbythebay.com/w/)
 * [Radek Pazdera](http://radek.io)
 * Radim Řehůřek https://radimrehurek.com/blog/
-* [Ramon Fried](https://nativeguru.wordpress.com/)
-* [Ray Wenderlich](https://www.raywenderlich.com/)
-* [Raymond Chen](https://blogs.msdn.microsoft.com/oldnewthing/)
-* [Raymond Hettinger](https://rhettinger.wordpress.com/)
-* [ReactJS News](https://reactjsnews.com)
-* [Real Python](https://realpython.com/blog/)
-* [Reginald Braithwaite](http://raganwald.com/#essays)
-* [Regular Geek](http://regulargeek.com/)
-* [Rob Allen](https://akrabat.com/)
-* [Robert C. Martin](http://blog.cleancoder.com/)
-* [Robin Ward](https://eviltrout.com/)
-* [Robin Wilson](http://blog.rtwilson.com/)
-* [Rudy Huyn](http://www.rudyhuyn.com/blog/)
-* [Rudolf Olah](https://neverfriday.com/blog/)
-* [Ruslan Spivak](https://ruslanspivak.com/)
+* Ramon Fried https://nativeguru.wordpress.com/
+* Ray Wenderlich https://www.raywenderlich.com/
+* Raymond Chen https://blogs.msdn.microsoft.com/oldnewthing/
+* Raymond Hettinger https://rhettinger.wordpress.com/
+* ReactJS News https://reactjsnews.com
+* Real Python https://realpython.com/blog/
+* Reginald Braithwaite http://raganwald.com/#essays
+* Regular Geek http://regulargeek.com/
+* Replit https://blog.replit.com/
+* Rob Allen https://akrabat.com/
+* Robert C. Martin http://blog.cleancoder.com/
+* Robin Ward https://eviltrout.com/
+* Robin Wilson http://blog.rtwilson.com/
+* Robiul H. https://robiul.dev/
+* Rudy Huyn http://www.rudyhuyn.com/blog/
+* Rudolf Olah https://neverfriday.com/blog/
+* Ruslan Spivak https://ruslanspivak.com/
 
 #### S individuals
 * Sakib Sami https://www.sakib.ninja
 * Sam Saffron https://samsaffron.com/
 * Sergey Zhuk http://sergeyzhuk.me/
-* SerHack https://serhack.me/
 * Schakko https://schakko.de
 * Scott Hanselman http://www.hanselman.com/blog/
 * Scott Johnson http://www.fuzzyblog.io/blog/
+* Silvestar Bistrović https://www.silvestar.codes/
 * Simon Reimler https://devdactic.com/devblog/
 * Srinivas Tamada https://www.9lessons.info/
 * Stack Abuse http://www.stackabuse.com/
@@ -712,8 +756,9 @@
 * [Undocumented Matlab](http://undocumentedmatlab.com/)
 
 #### V individuals
-* [Vanilla Java](http://vanillajava.blogspot.com/)
-* [Vlad Mihalcea](https://vladmihalcea.com/)
+* Vanilla Java http://vanillajava.blogspot.com/
+* Vlad Mihalcea https://vladmihalcea.com/
+* Verbose Tethics https://blog.sparsh.dev/
 
 #### W individuals
 * [Wilfred Hughes](http://www.wilfred.me.uk/)
@@ -734,13 +779,17 @@
 * [Android](https://android-developers.blogspot.com/)
 
 #### B technologies
-* [Bootstrap.com](https://blog.getbootstrap.com/)
+* Bootstrap.com https://blog.getbootstrap.com/
+* Bridgetown https://www.bridgetownrb.com/
 
 #### C technologies
 * [Crystal](https://crystal-lang.org/)
 
 #### G technologies
 * [Go](https://blog.golang.org/)
+
+#### H technologies
+* Hanami https://hanamirb.org/
 
 #### I technologies
 * [IPFS](https://ipfs.io/blog/)
@@ -762,12 +811,13 @@
 * [.NET](https://blogs.msdn.microsoft.com/dotnet/)
 
 #### R technologies
-* React https://reactjs.org/blog/
+* React https://react.dev/blog
 * React Native http://facebook.github.io/react-native/blog/
 * Red http://www.red-lang.org
 * RocksDB http://rocksdb.org/blog
 * Roda https://roda.jeremyevans.net/
 * Rust https://blog.rust-lang.org/
+* Ruby https://www.ruby-lang.org/en/
 
 #### S technologies
 * [Sketch](https://blog.sketchapp.com/)

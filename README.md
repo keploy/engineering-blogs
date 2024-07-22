@@ -40,6 +40,7 @@
 * Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/
 * Asana https://blog.asana.com/category/eng/
+* Ascenda Loyalty https://loyalty.dev/
 * Atlassian https://developer.atlassian.com/blog/
 * Atomic Object https://spin.atomicobject.com/
 * Auth0 https://auth0.com/blog/
@@ -814,6 +815,7 @@
 * React Native http://facebook.github.io/react-native/blog/
 * Red http://www.red-lang.org
 * RocksDB http://rocksdb.org/blog
+* Roda https://roda.jeremyevans.net/
 * Rust https://blog.rust-lang.org/
 * Ruby https://www.ruby-lang.org/en/
 
